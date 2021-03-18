@@ -8,7 +8,7 @@ The purpose of this repository is to make it as easy as possible for new and cas
 <br />
 
 ## Wondering where to start?
-**For more general information or to engage with the community, check out some of the links below. For more specific questions or advanced guides or information, refer to the wiki for this repository.**
+**For more general information or to engage with the community, check out some of the links below. For more specific questions or advanced guides or information, refer to the [wiki](https://github.com/l-io-n/AIDungeon-Resources/wiki) for this repository.**
 
 <br />
 
