@@ -8,7 +8,7 @@ The purpose of this repository is to make it as easy as possible for new and cas
 <br />
 
 ## Wondering where to start?
-**For general information or to engage with the community, check out some of the links below. For more specific questions or advanced guides or information, refer to the [wiki](https://github.com/l-io-n/AIDungeon-Resources/wiki) for this repository.**
+**For general information or to engage with the community, check out some of the links below. For more specific questions or advanced guides, you can refer to the [Official Discord Wiki](https://wiki.aidiscord.cc/wiki/Main_Page) or to this repository's own [wiki](https://github.com/l-io-n/AIDungeon-Resources/wiki) for links to many useful community guides such as [birb's research sheet](https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%20Research%20Sheet.md).**
 
 <br />
 
@@ -32,3 +32,15 @@ The purpose of this repository is to make it as easy as possible for new and cas
 - [OpenAI](https://openai.com/)
 - [GPT-3](https://arxiv.org/abs/2005.14165)
 - [ArtBreeder](https://www.artbreeder.com/)
+
+<br />
+
+## Frequently Asked Questions
+
+**What is this? What is AI Dungeon?** <br />
+AI Dungeon is an AI-assisted text adventure game created by [Latitude](https://latitude.io/) and based on the research of [OpenAI](https://openai.com/). Some people have compared it to playing [Dungeons & Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) with an AI as the [dungeon master](https://www.youtube.com/watch?v=dKMFLPtmSoQ). For more information, see [AI Dungeon's own About page](https://play.aidungeon.io/main/about).
+
+**How exactly does it work?** <br />
+If you want to know more about the AI (specifically the language models AI Dungeon was trained on), read [OpenAI's](https://openai.com/) paper on them [here](https://arxiv.org/abs/2005.14165). <br />
+For more about AI Dungeon's side of things regarding how it processes user input and generates output, user [birb/valahraban](https://github.com/valahraban) has done an *incredible* job compiling documentation from various users on much of this process in their [research sheet](https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%20Research%20Sheet.md) along with [loads of other research](https://github.com/valahraban/AID-World-Info-research-sheet/tree/main/docs) you can find on their github. Alternatively, you can jump to the [How AI Dungeon Works In Detail](https://github.com/l-io-n/AIDungeon-Resources/wiki/Home/_edit#how-ai-dungeon-works-in-detail) section in [this repository's wiki](https://github.com/l-io-n/AIDungeon-Resources/wiki).
+
