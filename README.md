@@ -1,4 +1,4 @@
-# AIDungeon-Resources
+# AI Dungeon Resources
 Scripts, documentation, research, and other resources I've found or made that are useful for getting more out of AI Dungeon.
 
 The purpose of this repository is to make it as easy as possible for new and casual users to dig into the more advanced aspects of AI Dungeon as well as to compile advanced community resources and information in one place.
