@@ -2,7 +2,7 @@
 Rinter — 03/17/2021 <br />
 when you press enter, AID does the following: <br />
 Any WIs that you triggered go up top <br />
-Remember :RememberIcon: goes below this <br />
+Remember goes below this <br />
 Story content <br />
 The AN <br />
 A bit more story content.
