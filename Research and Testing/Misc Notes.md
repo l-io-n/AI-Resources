@@ -1,5 +1,4 @@
 **regarding what happens when you send input to the AI** <br />
-Rinter — 03/17/2021 <br />
 when you press enter, AID does the following: <br />
 Any WIs that you triggered go up top <br />
 Remember goes below this <br />
@@ -10,7 +9,6 @@ A bit more story content.
 <br />
 
 **regarding testing tokens for input characters** <br />
-Rinter — 03/17/2021 <br />
 you can use this:
 https://npm.runkit.com/npm
 ```
@@ -29,23 +27,18 @@ for(let token of encoded){
 ```
 You'd want to replace 'Write something to test here' with whatever. You'll have to escape any ' characters with a preceding slash, though.
 There's also https://github.com/Gnurro/AIDscripts
-...<br />
-Benvolio — 03/18/2021 <br />
 The easiest way is to just search “tokenizer” on the explore page
 
 <br />
 
 **regarding whether the AI is aware of data in scenario quests** <br />
-Toma (web) — 03/10/2021 <br />
 It doesn't guide the story, no. Ai only checks if the selected quest is complete
-<br /> Twilight Sparkle — 03/16/2021 <br />
 Keeping info in quests makes no difference. The AI does not see the contents of Quests
 
 <br />
 
 **regarding EWIJSON, Simple Context, and NotesPlus** <br />
 All three do some form of adjusting data in the scenario context.
-<br /> OnePunchVAM — 03/18/2021 <br />
 Simple Context can be considered EWI super-lite.
 To give you an idea on how to accomplish the same thing in EWI..
 /desc Some scene information. is the equivalent /set .#[p=10] Some scene information
@@ -60,7 +53,6 @@ EWI does this only within lines rather than sentences, and testing has shown not
 TBH I think that EWI just needs some better documentation and nearly anyone would be able to use it for some really awesome stuff.
 As a professional engineer in my day job I'll admit I've struggled understanding EWI and believe it's greatest flaw is how hard it is to get started in.
 ... <br />
-<br /> Twilight Sparkle — 03/18/2021 <br />
 Notes Plus from my impression is not very powerful, but is very convenient. It replicates the most used EWIJSON functionality, 
 except it immediately and manually inserts it rather than looking for a regex key.  The LMI function is also very helpful
 Pushing your own agenda actively is easier on Notes++, but making it so it triggers with a condition is not. Setting author and editor notes is also easier in Notes++
@@ -68,7 +60,6 @@ Pushing your own agenda actively is easier on Notes++, but making it so it trigg
 <br />
 
 **regarding placement of data in context** <br />
-Twilight Sparkle — 03/18/2021 <br />
 You want to keep the things you insert at 0, 1 and 2 to be very limited, and then 3-6 is a bit better.
 I personally do max of two lines at 1, then max of four at 3, and max of six at 5
 My lines are fifteen tokens each or less since I play on griffin
@@ -86,7 +77,6 @@ her former master will trigger regardless of whether that's the next line or fou
 <br />
 
 **regarding a Memory Lookback function for scripting** <br />
-Draco18s — Yesterday at 11:47 AM <br />
 assuming EWIJSON:
 ```
 const getMemory = (text) => { return info.memoryLength ? text.slice(text.indexOf("📝")+2, info.memoryLength) : '' } (replace existing const in shared)
@@ -97,31 +87,23 @@ let memory = text.slice(text.indexOf("📝")+2, info.memoryLength) (in context m
 ```
 Then place a 📝 at the top of remember (if you use a newline after, change the +2 to a +3).
 ... <br />
-<br /> Rinter — Yesterday at 11:47 AM <br />
 It'll nuke any vanilla WIs, but EWI [m] WIs are still kept at least.
-<br /> Draco18s — Yesterday at 11:48 AM <br />
 put 📝 in your WIs if you want them? I dunno, this was a quick and dirty fix.
 (and then just .replace("📝","") after, I guess)
 ... <br />
-<br /> Gnurro — Yesterday at 11:52 AM <br />
-...and the literal :pencil: emoji...?
-<br /> Draco18s — Yesterday at 11:53 AM <br />
-it was the most context sensible unicode character I could think of
+...and the literal :pencil: emoji was the most context sensible unicode character I could think of.
 wanted it short, identifiable, and least likely to conflict
 
 <br />
 
 **regarding using emojis to save tokens and how girffin and dragon assign a different number of tokens to parsed characters** <br />
-Rinter — 03/18/2021 <br />
 after using ♀ for a few days now, I'm sold. It's the way to go. Using the male version too though mainly just to save 3 characters,
 it's not really important for them (never really had much issue with AI making the males switch sides)
-<br /> Twilight Sparkle — 03/18/2021 <br />
 Be careful if you're on griffin, the male version may be shorter but it's also two tokens
 
 <br />
 
 **on the topic of keeping mythical beasts from talking** <br />
-Rinter — 03/18/2021 <br />
 this is working pretty well for a pet dragon:
 ```
 cannot speak instead body language
@@ -130,20 +112,17 @@ cannot speak instead body language
 <br />
 
 **regarding the world generator and it's ineffectiveness unless the user also tailor makes their WIs** <br />
-Rinter — 03/18/2021 <br />
 I can't help but imagine a lot of casual users who don't know the technical details of WIs would be confused by world generator.
 Because those fancy locations and stuff they're burning their energy creating aren't ever going to be used unless the player goes out of their way to name drop it...
 unless maybe a faction mentions it, but then same problem - gotta mention the faction.
 When I first saw it released I was under the assumption the difference between it and
 regular adventures would be that it would work under the hood to nudge random WIs to memory to see if the AI will play with them.
-<br /> Benvolio — 03/18/2021 <br />
 That’s why I’m thinking like, this is more of an in depth tutorial on how much to put in an WI and what kind of things need a WI rather than what it’s billed as
 Kind of like how AID is marketed as a cyya but it’s a predictive text generator
 
 <br />
 
 **regarding implementing sub-locations in your WIs via EWI regex** <br />
-Rinter — 03/18/2021 <br />
 I'm late to the whole regex party, but thanks to a bit of help from a friend I just started messing around with it. Can steamline your WIs a bit with things like sub-locations.
 ```
 (exit|leave).*?guild hall#[l=2p=2]
@@ -155,9 +134,7 @@ entry:
 for example triggers when you write After finishing your business, you exit the guild hall
 and, uh, yeah the following output was about the inferno raging outside. But ideally the plan was to just replace that with locale information.
 Spares the guild hall WI entry from needing to waste space writing about what's outside.
-Benvolio — 03/18/2021 <br />
 That’s really cool. Allows for locations to be at a low l value
-Rinter — 03/18/2021 <br />
 With clever keyword choice you could define individual rooms as long as you can predict the text you'd use to go there
 Awfully Annoying Amateur Artist — 03/18/2021 <br />
 I would recommend to add spaces/newlines pre entry so it doesn't get wrongcalled
@@ -166,13 +143,11 @@ e.g using only (elli) will be mentioned in selling, or (hare) will be mentioned 
 <br />
 
 **you can mix formats apparently** <br />
-a Gnol Kittehnol Catnol — 03/18/2021 <br />
 Btw you can mix and match formats I believe
 
 <br />
 
 **format editor** <br />
-luihum — 03/18/2021 <br />
 there's this https://starstruck.gitlab.io/world-info-format-editor/
 
 <br />
