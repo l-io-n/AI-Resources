@@ -13,13 +13,13 @@ I do not claim to have all the answers and will not respond to any specific ques
 <br />
 
 ## Wondering where to start?
-**For general information or to engage with the community, check out some of the links below. For more specific questions or advanced guides, you can refer to the [Official Discord Wiki](https://wiki.aidiscord.cc/wiki/Main_Page) or to this repository's own [wiki](https://github.com/l-io-n/AIDungeon-Resources/wiki) for links to many useful community guides such as [birb's research sheet](https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%20Research%20Sheet.md).**
+**For general information or to engage with the community, check out some of the links below. For more specific questions or advanced guides, you can refer to the [Official Discord Wiki](https://wiki.aidiscord.io/wiki/Main_Page) or to this repository's own [wiki](https://github.com/l-io-n/AIDungeon-Resources/wiki) for links to many useful community guides such as [birb's research sheet](https://github.com/valahraban/AID-World-Info-research-sheet/blob/main/AID%20WI%20Research%20Sheet.md).**
 
 <br />
 
 ## Community Links
 - [Discord](https://discord.gg/JpgsTF3)
-- [Discord Wiki](https://wiki.aidiscord.cc/wiki/Main_Page)
+- [Discord Wiki](https://wiki.aidiscord.io/wiki/Main_Page)
 - [Reddit](https://www.reddit.com/r/AIDungeon/)
 - [Twitter](https://twitter.com/AiDungeon)
 - [Instagram](https://www.instagram.com/aidungeon/)
