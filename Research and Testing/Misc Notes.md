@@ -133,7 +133,8 @@ I'm late to the whole regex party, but thanks to a bit of help from a friend I j
 ```
 (exit|leave).*?guild hall#[l=2p=2]
 ```
-entry: ```
+entry:
+```
 < Outside guild hall everything on fire>
 ```
 for example triggers when you write After finishing your business, you exit the guild hall
