@@ -27,7 +27,7 @@ for(let token of encoded){
   console.log({token, string: decode([token])})
 }
 ```
-You'd want to replace Write something to test here with whatever. You'll have to escape any ' characters with a preceding slash, though.
+You'd want to replace 'Write something to test here' with whatever. You'll have to escape any ' characters with a preceding slash, though.
 There's also https://github.com/Gnurro/AIDscripts
 ...<br />
 Benvolio — 03/18/2021 <br />
@@ -38,14 +38,14 @@ The easiest way is to just search “tokenizer” on the explore page
 **regarding whether the AI is aware of data in scenario quests** <br />
 Toma (web) — 03/10/2021 <br />
 It doesn't guide the story, no. Ai only checks if the selected quest is complete
-Twilight Sparkle — 03/16/2021 <br />
+<br /> Twilight Sparkle — 03/16/2021 <br />
 Keeping info in quests makes no difference. The AI does not see the contents of Quests
 
 <br />
 
 **regarding EWIJSON, Simple Context, and NotesPlus** <br />
 All three do some form of adjusting data in the scenario context.
-OnePunchVAM — 03/18/2021 <br />
+<br /> OnePunchVAM — 03/18/2021 <br />
 Simple Context can be considered EWI super-lite.
 To give you an idea on how to accomplish the same thing in EWI..
 /desc Some scene information. is the equivalent /set .#[p=10] Some scene information
@@ -60,7 +60,7 @@ EWI does this only within lines rather than sentences, and testing has shown not
 TBH I think that EWI just needs some better documentation and nearly anyone would be able to use it for some really awesome stuff.
 As a professional engineer in my day job I'll admit I've struggled understanding EWI and believe it's greatest flaw is how hard it is to get started in.
 ... <br />
-Twilight Sparkle — 03/18/2021 <br />
+<br /> Twilight Sparkle — 03/18/2021 <br />
 Notes Plus from my impression is not very powerful, but is very convenient. It replicates the most used EWIJSON functionality, 
 except it immediately and manually inserts it rather than looking for a regex key.  The LMI function is also very helpful
 Pushing your own agenda actively is easier on Notes++, but making it so it triggers with a condition is not. Setting author and editor notes is also easier in Notes++
@@ -97,15 +97,15 @@ let memory = text.slice(text.indexOf("📝")+2, info.memoryLength) (in context m
 ```
 Then place a 📝 at the top of remember (if you use a newline after, change the +2 to a +3).
 ... <br />
-Rinter — Yesterday at 11:47 AM <br />
+<br /> Rinter — Yesterday at 11:47 AM <br />
 It'll nuke any vanilla WIs, but EWI [m] WIs are still kept at least.
-Draco18s — Yesterday at 11:48 AM <br />
+<br /> Draco18s — Yesterday at 11:48 AM <br />
 put 📝 in your WIs if you want them? I dunno, this was a quick and dirty fix.
 (and then just .replace("📝","") after, I guess)
 ... <br />
-Gnurro — Yesterday at 11:52 AM <br />
+<br /> Gnurro — Yesterday at 11:52 AM <br />
 ...and the literal :pencil: emoji...?
-Draco18s — Yesterday at 11:53 AM <br />
+<br /> Draco18s — Yesterday at 11:53 AM <br />
 it was the most context sensible unicode character I could think of
 wanted it short, identifiable, and least likely to conflict
 
@@ -115,7 +115,7 @@ wanted it short, identifiable, and least likely to conflict
 Rinter — 03/18/2021 <br />
 after using ♀ for a few days now, I'm sold. It's the way to go. Using the male version too though mainly just to save 3 characters,
 it's not really important for them (never really had much issue with AI making the males switch sides)
-Twilight Sparkle — 03/18/2021 <br />
+<br /> Twilight Sparkle — 03/18/2021 <br />
 Be careful if you're on griffin, the male version may be shorter but it's also two tokens
 
 <br />
@@ -136,7 +136,7 @@ Because those fancy locations and stuff they're burning their energy creating ar
 unless maybe a faction mentions it, but then same problem - gotta mention the faction.
 When I first saw it released I was under the assumption the difference between it and
 regular adventures would be that it would work under the hood to nudge random WIs to memory to see if the AI will play with them.
-Benvolio — 03/18/2021 <br />
+<br /> Benvolio — 03/18/2021 <br />
 That’s why I’m thinking like, this is more of an in depth tutorial on how much to put in an WI and what kind of things need a WI rather than what it’s billed as
 Kind of like how AID is marketed as a cyya but it’s a predictive text generator
 
