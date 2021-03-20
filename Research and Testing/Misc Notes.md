@@ -1,4 +1,4 @@
->regarding what happens when you send input to the AI <br />
+**regarding what happens when you send input to the AI** <br />
 Rinter — 03/17/2021 <br />
 when you press enter, AID does the following: <br />
 Any WIs that you triggered go up top <br />
@@ -9,7 +9,7 @@ A bit more story content.
 
 <br />
 
->regarding testing tokens for input characters <br />
+**regarding testing tokens for input characters** <br />
 Rinter — 03/17/2021 <br />
 you can use this:
 https://npm.runkit.com/npm
@@ -35,7 +35,7 @@ The easiest way is to just search “tokenizer” on the explore page
 
 <br />
 
->regarding whether the AI is aware of data in scenario quests <br />
+**regarding whether the AI is aware of data in scenario quests** <br />
 Toma (web) — 03/10/2021 <br />
 It doesn't guide the story, no. Ai only checks if the selected quest is complete
 Twilight Sparkle — 03/16/2021 <br />
@@ -43,7 +43,7 @@ Keeping info in quests makes no difference. The AI does not see the contents of 
 
 <br />
 
->regarding EWIJSON, Simple Context, and NotesPlus <br />
+**regarding EWIJSON, Simple Context, and NotesPlus** <br />
 All three do some form of adjusting data in the scenario context.
 OnePunchVAM — 03/18/2021 <br />
 Simple Context can be considered EWI super-lite.
@@ -67,7 +67,7 @@ Pushing your own agenda actively is easier on Notes++, but making it so it trigg
 
 <br />
 
->regarding placement of data in context <br />
+**regarding placement of data in context** <br />
 Twilight Sparkle — 03/18/2021 <br />
 You want to keep the things you insert at 0, 1 and 2 to be very limited, and then 3-6 is a bit better.
 I personally do max of two lines at 1, then max of four at 3, and max of six at 5
@@ -85,7 +85,7 @@ her former master will trigger regardless of whether that's the next line or fou
 
 <br />
 
->regarding a Memory Lookback function for scripting <br />
+**regarding a Memory Lookback function for scripting** <br />
 Draco18s — Yesterday at 11:47 AM <br />
 assuming EWIJSON:
 ```
@@ -111,7 +111,7 @@ wanted it short, identifiable, and least likely to conflict
 
 <br />
 
->regarding using emojis to save tokens and how girffin and dragon assign a different number of tokens to parsed characters <br />
+**regarding using emojis to save tokens and how girffin and dragon assign a different number of tokens to parsed characters** <br />
 Rinter — 03/18/2021 <br />
 after using ♀ for a few days now, I'm sold. It's the way to go. Using the male version too though mainly just to save 3 characters,
 it's not really important for them (never really had much issue with AI making the males switch sides)
@@ -120,7 +120,7 @@ Be careful if you're on griffin, the male version may be shorter but it's also t
 
 <br />
 
->on the topic of keeping mythical beasts from talking <br />
+**on the topic of keeping mythical beasts from talking** <br />
 Rinter — 03/18/2021 <br />
 this is working pretty well for a pet dragon:
 ```
@@ -129,7 +129,7 @@ cannot speak instead body language
 
 <br />
 
->regarding the world generator and it's ineffectiveness unless the user also tailor makes their WIs <br />
+**regarding the world generator and it's ineffectiveness unless the user also tailor makes their WIs** <br />
 Rinter — 03/18/2021 <br />
 I can't help but imagine a lot of casual users who don't know the technical details of WIs would be confused by world generator.
 Because those fancy locations and stuff they're burning their energy creating aren't ever going to be used unless the player goes out of their way to name drop it...
@@ -142,7 +142,7 @@ Kind of like how AID is marketed as a cyya but it’s a predictive text generato
 
 <br />
 
->regarding implementing sub-locations in your WIs via EWI regex <br />
+**regarding implementing sub-locations in your WIs via EWI regex** <br />
 Rinter — 03/18/2021 <br />
 I'm late to the whole regex party, but thanks to a bit of help from a friend I just started messing around with it. Can steamline your WIs a bit with things like sub-locations.
 ```
@@ -165,13 +165,13 @@ e.g using only (elli) will be mentioned in selling, or (hare) will be mentioned 
 
 <br />
 
->you can mix formats apparently <br />
+**you can mix formats apparently** <br />
 a Gnol Kittehnol Catnol — 03/18/2021 <br />
 Btw you can mix and match formats I believe
 
 <br />
 
->format editor <br />
+**format editor** <br />
 luihum — 03/18/2021 <br />
 there's this https://starstruck.gitlab.io/world-info-format-editor/
 
