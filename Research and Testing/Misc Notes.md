@@ -123,7 +123,7 @@ Kind of like how AID is marketed as a cyya but it’s a predictive text generato
 <br />
 
 **regarding implementing sub-locations in your WIs via EWI regex** <br />
-I'm late to the whole regex party, but thanks to a bit of help from a friend I just started messing around with it. Can steamline your WIs a bit with things like sub-locations.
+You can steamline your WIs a bit with things like sub-locations.
 ```
 (exit|leave).*?guild hall#[l=2p=2]
 ```
@@ -136,7 +136,6 @@ and, uh, yeah the following output was about the inferno raging outside. But ide
 Spares the guild hall WI entry from needing to waste space writing about what's outside.
 That’s really cool. Allows for locations to be at a low l value
 With clever keyword choice you could define individual rooms as long as you can predict the text you'd use to go there
-Awfully Annoying Amateur Artist — 03/18/2021 <br />
 I would recommend to add spaces/newlines pre entry so it doesn't get wrongcalled
 e.g using only (elli) will be mentioned in selling, or (hare) will be mentioned in shared
 
