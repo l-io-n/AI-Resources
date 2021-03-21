@@ -142,8 +142,8 @@ e.g using only (elli) will be mentioned in selling, or (hare) will be mentioned 
 
 <br />
 
-**you can mix formats apparently** <br />
-Btw you can mix and match formats I believe
+**you can mix formats** <br />
+But not within a given WI
 
 <br />
 
