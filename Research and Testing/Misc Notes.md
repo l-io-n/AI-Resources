@@ -28,6 +28,7 @@ for(let token of encoded){
 You'd want to replace 'Write something to test here' with whatever. You'll have to escape any ' characters with a preceding slash, though.
 There's also https://github.com/Gnurro/AIDscripts
 The easiest way is to just search “tokenizer” on the explore page
+https://discord.com/channels/653773513857171475/760367080808644608/822632669842112613
 
 <br />
 
@@ -156,4 +157,29 @@ there's this https://starstruck.gitlab.io/world-info-format-editor/
 https://discord.com/channels/653773513857171475/751191565413777510/817849299819560961
 
  <br />
+
+**What data is stored/used and how**
+https://discord.com/channels/653773513857171475/760367080808644608/822609418012065852
+
+ <br />
+
+**The AI effectively staying consistent when referencing a WI**
+https://discord.com/channels/653773513857171475/760367080808644608/822641965316702209
+
+<br />
+
+**Discussing AI keeping track of inventory**
+https://discord.com/channels/653773513857171475/760367080808644608/822656823453679627
+
+<br />
+
+**Recommended tags for WI state (mind, etc)**
+https://discord.com/channels/653773513857171475/760367080808644608/823272929382236232
+
+<br />
+
+**On how functionality over details is most important to the AI / a little goes a long way**
+https://discord.com/channels/653773513857171475/760367080808644608/823286983534968902
+
+<br />
 
