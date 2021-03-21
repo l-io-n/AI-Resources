@@ -183,3 +183,5 @@ https://discord.com/channels/653773513857171475/760367080808644608/8232869835349
 
 <br />
 
+**Editor's note vs Author's note**:
+https://docs.google.com/document/d/12HDSN4wm9hMF4nRGWtkuT_RUkwx2Gqr2qhNSOORbSMk/edit
