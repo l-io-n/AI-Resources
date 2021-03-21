@@ -152,3 +152,8 @@ there's this https://starstruck.gitlab.io/world-info-format-editor/
 <br />
 
 
+**manipulating the starting prompt of paid worlds** <br />
+https://discord.com/channels/653773513857171475/751191565413777510/817849299819560961
+
+ <br />
+
