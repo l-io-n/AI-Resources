@@ -198,3 +198,21 @@ https://discord.com/channels/653773513857171475/760367080808644608/8233931241717
 **How many WIs can be loaded into memory, what limits them, etc**
 https://discord.com/channels/653773513857171475/760367080808644608/823359948305727508
 https://discord.com/channels/653773513857171475/760367080808644608/823383010963488778
+
+<br />
+
+**Since the first output of a scenario uses Classic, not Griffin/Dragon, it's best to test mid-scenario**
+https://discord.com/channels/653773513857171475/760367080808644608/823410419988561932
+
+<br />
+
+**Compressing futureman**
+https://discord.com/channels/653773513857171475/760367080808644608/823560479737380944
+https://discord.com/channels/653773513857171475/760367080808644608/823644201538289734
+
+**Merging Encounters by Gnurro and Simple Context by OnePunch VAM**
+https://discord.com/channels/653773513857171475/717764081058185316/823541966854815764
+https://discord.com/channels/653773513857171475/717764081058185316/823563014224609291
+
+**The AI does not tend to remember negation well**
+https://discord.com/channels/653773513857171475/760367080808644608/823632792478023750
