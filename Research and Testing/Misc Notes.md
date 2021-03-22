@@ -190,3 +190,8 @@ https://docs.google.com/document/d/12HDSN4wm9hMF4nRGWtkuT_RUkwx2Gqr2qhNSOORbSMk/
 
 **On using EWIJSON with various formats and what each format is good for**
 https://discord.com/channels/653773513857171475/760367080808644608/823346294541910058
+
+<br />
+
+**How many WIs can be loaded into memory, what limits them, etc**
+https://discord.com/channels/653773513857171475/760367080808644608/823359948305727508
