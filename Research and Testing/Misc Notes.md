@@ -213,6 +213,9 @@ https://discord.com/channels/653773513857171475/760367080808644608/8236442015382
 **Futureman converter**
 https://discord.com/channels/653773513857171475/760367080808644608/817033200030449676
 
+**Using futureman without EWIJSON ie use Neanderthal with <<>>>>**
+https://discord.com/channels/653773513857171475/760367080808644608/824049588469760060
+
 **Merging Encounters by Gnurro and Simple Context by OnePunch VAM**
 https://discord.com/channels/653773513857171475/717764081058185316/823541966854815764
 https://discord.com/channels/653773513857171475/717764081058185316/823563014224609291
