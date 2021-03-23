@@ -230,3 +230,6 @@ https://discord.com/channels/653773513857171475/717764081058185316/8239372360848
 
 **Manipulating nested references in WIs to create vanilla random encounters**
 https://discord.com/channels/653773513857171475/760367080808644608/823967904273137714
+
+**Effectively using WIs for races and factions**
+https://discord.com/channels/653773513857171475/760367080808644608/824029334414688256
