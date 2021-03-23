@@ -239,3 +239,6 @@ https://discord.com/channels/653773513857171475/760367080808644608/8239679042731
 
 **Effectively using WIs for races and factions**
 https://discord.com/channels/653773513857171475/760367080808644608/824029334414688256
+
+**A/N research testing doc**
+https://justpaste.it/9ofj1
