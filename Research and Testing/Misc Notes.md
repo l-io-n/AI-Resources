@@ -150,61 +150,39 @@ But not within a given WI
 **format editor** <br />
 there's this https://starstruck.gitlab.io/world-info-format-editor/
 
-<br />
-
 
 **manipulating the starting prompt of paid worlds** <br />
 https://discord.com/channels/653773513857171475/751191565413777510/817849299819560961
 
- <br />
-
 **What data is stored/used and how**
 https://discord.com/channels/653773513857171475/760367080808644608/822609418012065852
-
- <br />
 
 **The AI effectively staying consistent when referencing a WI**
 https://discord.com/channels/653773513857171475/760367080808644608/822641965316702209
 
-<br />
-
 **Discussing AI keeping track of inventory**
 https://discord.com/channels/653773513857171475/760367080808644608/822656823453679627
-
-<br />
 
 **Recommended tags for WI state (mind, etc)**
 https://discord.com/channels/653773513857171475/760367080808644608/823272929382236232
 
-<br />
-
 **On how functionality over details is most important to the AI / a little goes a long way**
 https://discord.com/channels/653773513857171475/760367080808644608/823286983534968902
 
-<br />
-
 **Editor's note vs Author's note**:
 https://docs.google.com/document/d/12HDSN4wm9hMF4nRGWtkuT_RUkwx2Gqr2qhNSOORbSMk/edit
-
-<br />
 
 **On using EWIJSON with various formats and what each format is good for**
 https://discord.com/channels/653773513857171475/760367080808644608/823346294541910058
 https://discord.com/channels/653773513857171475/760367080808644608/823370823880278047
 https://discord.com/channels/653773513857171475/760367080808644608/823393124171776002
 
-<br />
-
 **How many WIs can be loaded into memory, what limits them, etc**
 https://discord.com/channels/653773513857171475/760367080808644608/823359948305727508
 https://discord.com/channels/653773513857171475/760367080808644608/823383010963488778
 
-<br />
-
 **Since the first output of a scenario uses Classic, not Griffin/Dragon, it's best to test mid-scenario**
 https://discord.com/channels/653773513857171475/760367080808644608/823410419988561932
-
-<br />
 
 **Compressing futureman**
 https://discord.com/channels/653773513857171475/760367080808644608/823560479737380944
@@ -218,6 +196,9 @@ https://discord.com/channels/653773513857171475/760367080808644608/8170332000304
 
 **Using futureman without EWIJSON ie use Neanderthal with <<>>>>**
 https://discord.com/channels/653773513857171475/760367080808644608/824049588469760060
+
+**The use of different formats in different situations (ex futureman is used because it exists in front context**
+https://discord.com/channels/653773513857171475/760367080808644608/824075637974106153
 
 **Merging Encounters by Gnurro and Simple Context by OnePunch VAM**
 https://discord.com/channels/653773513857171475/717764081058185316/823541966854815764
@@ -257,3 +238,4 @@ https://discord.com/channels/653773513857171475/760367080808644608/8243417631533
 https://discord.com/channels/653773513857171475/760367080808644608/823671204207788054
 https://discord.com/channels/653773513857171475/760367080808644608/814983161892175882
 https://discord.com/channels/653773513857171475/760367080808644608/824332537291604049
+
