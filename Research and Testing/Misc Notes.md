@@ -227,9 +227,12 @@ https://discord.com/channels/653773513857171475/760367080808644608/8240293344146
 **A/N research testing doc**
 https://justpaste.it/9ofj1
 
-**ZaltysSnek updated 3-23-21**
+**ZaltysSnek updated Feb 2021**
 https://discord.com/channels/653773513857171475/760367080808644608/824141507124527143
 https://discord.com/channels/653773513857171475/760367080808644608/763102056349171773
+
+**Using Zaltys in Remember**
+https://discord.com/channels/653773513857171475/760367080808644608/824141507124527143
 
 **Getting an NPC to talk a certain way**
 https://discord.com/channels/653773513857171475/760367080808644608/824341763153330256
