@@ -253,3 +253,8 @@ https://discord.com/channels/653773513857171475/760367080808644608/8244289788480
 
 **Compressed futureman is good for locations aparently**
 https://discord.com/channels/653773513857171475/760367080808644608/824336464548331570
+
+**On the present state of CAT<nip> and F L A T's alt [<LombaxNip>]**
+https://discord.com/channels/653773513857171475/760367080808644608/825471007233671179
+https://discord.com/channels/653773513857171475/760367080808644608/825474099723632672
+https://github.com/F-L-A-T/AID-FORK-LombaxNip-/blob/main/README.md
