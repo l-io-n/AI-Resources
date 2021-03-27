@@ -150,7 +150,6 @@ But not within a given WI
 **format editor** <br />
 there's this https://starstruck.gitlab.io/world-info-format-editor/
 
-
 **manipulating the starting prompt of paid worlds** <br />
 https://discord.com/channels/653773513857171475/751191565413777510/817849299819560961
 
@@ -220,6 +219,9 @@ https://discord.com/channels/653773513857171475/717764081058185316/8239372360848
 
 **Manipulating nested references in WIs to create vanilla random encounters**
 https://discord.com/channels/653773513857171475/760367080808644608/823967904273137714
+
+**Creative use of keys to associate different WIs together**
+https://discord.com/channels/653773513857171475/760367080808644608/825422395699232839
 
 **Effectively using WIs for races and factions**
 https://discord.com/channels/653773513857171475/760367080808644608/824029334414688256
