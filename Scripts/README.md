@@ -4,8 +4,8 @@ Tampermonkey/Greasemonkey script that allows you to change the AI Dungeon text t
 > *How to Install*
 1. Install the Tampermonkey extension on Chrome or Firefox.
 2. Click on AIDungeonAdventureTextCSSReplacer.js in the file list.
-3. Click 'Raw' on the top right. (Alternatively, just click this: <br />
-https://github.com/l-io-n/AIDungeon-Resources/raw/main/Scripts/AIDungeonAdventureTextCSSReplacer.user.js)
+3. Click 'Raw' on the top right. <br />
+(Alternatively, just click this: https://github.com/l-io-n/AIDungeon-Resources/raw/main/Scripts/AIDungeonAdventureTextCSSReplacer.user.js)
 4. Tampermonkey will prompt you to install the script. Click 'install'.
 5. Reload AI Dungeon.
  <br />
