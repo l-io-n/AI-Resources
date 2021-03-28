@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         AI Dungeon Adventure Text CSS Replacer
 // @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Added functionality for Greasemonky users
+// @version      0.2
+// @description  Allows you to format the text for AI Dungeon adventures to however you'd like.
 // @author       l i o n
 // @match        https://play.aidungeon.io/*
 // @icon         https://www.google.com/s2/favicons?domain=aidungeon.io
@@ -23,12 +23,12 @@ GM_addStyle ( `
     }
 ` );
 
-// Function included for Greasemonkey 4 users
+// Function included for Greasemonkey 4 users thanks to Brock Adams https://stackoverflow.com/questions/19385698/how-to-change-a-class-css-with-a-greasemonkey-tampermonkey-script
 function GM_addStyle (cssStr) {
-    var D               = document;
-    var newNode         = D.createElement ('style');
+    var D = document;
+    var newNode = D.createElement ('style');
     newNode.textContent = cssStr;
 
-    var targ    = D.getElementsByTagName ('head')[0] || D.body || D.documentElement;
+    var targ = D.getElementsByTagName ('head')[0] || D.body || D.documentElement;
     targ.appendChild (newNode);
 }
