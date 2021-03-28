@@ -1,3 +1,5 @@
+WIP
+
 **regarding what happens when you send input to the AI** <br />
 when you press enter, AID does the following: <br />
 Any WIs that you triggered go up top <br />
@@ -261,3 +263,6 @@ https://github.com/F-L-A-T/AID-FORK-LombaxNip-/blob/main/README.md
 
 **Memory lookback and using the full amount of context space**
 https://discord.com/channels/653773513857171475/717764081058185316/825530362510704640
+
+**Making characters asexual**
+https://discord.com/channels/653773513857171475/760367080808644608/825877085033594930
