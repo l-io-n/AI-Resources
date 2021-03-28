@@ -265,4 +265,5 @@ https://github.com/F-L-A-T/AID-FORK-LombaxNip-/blob/main/README.md
 https://discord.com/channels/653773513857171475/717764081058185316/825530362510704640
 
 **Making characters asexual**
+https://discord.com/channels/653773513857171475/760367080808644608/825205149688922142
 https://discord.com/channels/653773513857171475/760367080808644608/825877085033594930
