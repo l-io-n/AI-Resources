@@ -270,3 +270,6 @@ https://discord.com/channels/653773513857171475/760367080808644608/8258770850335
 
 **Character count and token count**
 https://discord.com/channels/653773513857171475/760367080808644608/825884037725421588
+
+**Classic model is used in first TWO prompts and only on empty prompts**
+https://discord.com/channels/653773513857171475/760367080808644608/826921560132157470
