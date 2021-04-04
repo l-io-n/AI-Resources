@@ -7,7 +7,7 @@ Tampermonkey/Greasemonkey script that allows you to change the AI Dungeon text t
 3. Click 'Raw' on the top right. <br />
 (Alternatively, just click this: https://github.com/l-io-n/AIDungeon-Resources/raw/main/Scripts/AIDungeonAdventureTextCSSReplacer.user.js)
 4. Tampermonkey will prompt you to install the script. Click 'install'.
-5. When you are using AI Dungeon, just go into the Tampermonkey extension and click Configuration Settings.
+5. When you are using AI Dungeon, just go into the Tampermonkey extension, enable the script, and click Configuration Settings.
 6. Tweak the settings to your liking and then hit Save to apply them to AI Dungeon.
  <br />
  <br />
