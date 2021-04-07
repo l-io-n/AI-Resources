@@ -252,6 +252,8 @@ https://discord.com/channels/653773513857171475/760367080808644608/8115223925471
 
 **On combining Zaltys with CATnip to get locations more accurate**
 https://discord.com/channels/653773513857171475/760367080808644608/824428978848006165
+![Zaltys Locations](https://user-images.githubusercontent.com/1778722/113948194-3181bb00-97c1-11eb-9f9c-b2030212ea67.png)
+
 
 **Compressed futureman is good for locations aparently**
 https://discord.com/channels/653773513857171475/760367080808644608/824336464548331570
