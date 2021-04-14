@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="style/index.css">
+	</head>
+
+	<body>
+		
+		<div class="col-1">
+			<header><h1>World Info Tools</h1></header>
+			<main class="content">
+				<nav class="col-2">
+					<label style="text-align: center"><h3>Import Your WorldInfo.json</h3></label>
+					<input type="file" id="selectFile" accept=".json" style="margin-left: 2em"><br><br>
+					<label ><h3>Choose a Format</h3></label>
+					<select name="formatList" id="formatList" style="margin-left: .5em">
+						<option selected disabled hidden value>Choose...</option>
+						<option value="reduceTokens">Reduced Tokens</option>
+						<option value="futureman">Futureman</option>
+						<option disabled value>Coming soon...</option>
+					</select><input type="submit" value="Format" id="formatButton" style="margin-left: 1.5em"><br><br>
+					<div style="text-align: right; margin-right: .5em">
+						<input type="submit" value="Save As..." id="saveButton">
+					</div>
+				</nav>
+				<article>
+					<textarea id="result" placeholder="Import or paste contents of worldInfo.json here..."></textarea>
+				</article>
+			</main>
+			<footer>Created by l i o n<br>
+			</footer>
+		</div>
+
+		<script src="scripts/main.js"></script>
+	</body>
+</html>
