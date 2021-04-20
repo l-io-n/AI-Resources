@@ -1,7 +1,9 @@
 # AI Dungeon Resources
 Mostly scripts and other resources I've found or made that are useful for getting more out of AI Dungeon.
 
+
 [What is AI Dungeon?](https://github.com/l-io-n/AIDungeon-Resources/wiki)
+
 <br />
 
 ### Scripts
