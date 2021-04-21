@@ -35,9 +35,8 @@ Each has a graphical menu to guide you through the process.
 ###### Scene and Perspective
 Commands for loading different scenes and switching control over the player character, with examples.
 * `/you John` switches the user POV and control to the character "John" (only use with 2nd person perspective).
-* `/notes` opens the global author's/editor's notes menu.
 * `/s` or `/scene Chapter 1` opens the scene creation/editing menu for scene with the label "Chapter 1".
-* `/l` or `/load Chapter 1` loads the scene and executes any text to prompt as per configuration in the scene menu.
+* `/load Chapter 1` loads the scene and executes any text to prompt as per configuration in the scene menu.
 <br />Note that `/load! Chapter 1` with that exclaimation point loads the scene WITHOUT executing any text to prompt.
 
 ###### Graphical Menu Navigation
@@ -51,9 +50,6 @@ Commands for navigation of the various graphical menus.
 ###### Advanced Usage
 Commands tailored towards power users, with examples.
 * `/flush` will clear state.displayStats in the rare case that it bugs out.
-* `&` changes the contents of the `MAIN` field for the currently loaded scene.
-  <br />This effectively functions as the old scene commands did in Simple Context 1:
-  <br />`&This is your new /at, /time, /with, /think and /focus command`
 * `@`, `#`, `$`, `%`, or `^` are quick entry creation symbols.
   <br />Each symbol corresponds with an entry type. Left to right, they are `Character`, `Location`, `Thing`, `Faction`, and `Other`.
   * When placed left of a label, they allow for quick entry creation. Fields are separated by `:`.
@@ -72,4 +68,47 @@ or `@Snape: is a dour man: has greasy hair and a hooked nose: talks about the da
   If used with two exclaimation points, it will *overwrite* the existing entries.
   <br />It also works great with regex. For example: `#convert!!: /.*Town/gi`
 
+###### Custom Notes
+This command is a catchall that allows you to not only set as many notes to inject into context as you want, but it also allows you to specify WHERE you inject the note.  Syntax is as follows:
+```
++LABEL#POSITION:TEXT
+```
 
+Where:
+ * `LABEL` is the unique label to give the note (ie, `think` or `🧠`).
+ * `POSITION` is the distance back from the user input (front of context) the note should be injected and is measured in total characters (rounded to whole sentences).
+ * `TEXT` is the actual text to inject into context itself.
+
+Examples:
+```
++🧠:100:This is my focus text
++think:This is my think text
++☁ Cloudy:600:This is some weather text 
++🎬 Chapter 1:This is some scene text
+```
+
+Editing the position of an existing note is easy. Simply call the command again with a different POSITION:
+```
++🧠:234
++🎬 Chapter 1:675
+```
+
+Same with changing the content of a note:
+```
++🧠:This is my NEW focus text
+```
+
+Removing a note is quick and easy:
+```
++🧠
++think
++🎬 Chapter 1
+```
+
+You can also hoist the injected note to the very top of the context.
+```
++🧠#-1:This will be at the top.
++☁ Cloudy#-20:This will be above the -1 entry (the very very top).
+```
+
+You can set as many notes on a scene as you want. Open the scene with /s My Scene and navigate to Page 2. From here you can enter notes as you normally would from outside the menus.
