@@ -29,7 +29,7 @@ Each has a graphical menu to guide you through the process.
 * `/r` or `/rel John` opens the relationship menu for "John".
 * `/t` or `/title ex wife` creates or loads the title with the label "ex wife".
 * `/f` or `/find Mary` searches and displays all scenes, entries and titles with the label "Mary".
-* `/ban John, Mary` prevents the entries "John" and "Mary" from being injected into context.
+* `/b` or `/ban John, Mary` prevents the entries "John" and "Mary" from being injected into context.
 <br />With no entries specified, `/ban` by itself will clear all previous bans.
 
 ###### Scene and Perspective
@@ -44,11 +44,11 @@ Commands for loading different scenes and switching control over the player char
 Commands for navigation of the various graphical menus.
 * `!` exits any menu. If changes were made, a `y/n` prompt will appear to confirm saving of changes made.
 * `>` and `<` moves the current selection forward (down) or back (up) the list of menu options.
-* `>>` and `<<` moves the current selection to the end (bottom) or beginning (top) of the list of menu options.
-* `#0` will move the current selection to the label name option, or first (top) of the list of menu options.
+* `>>` and `<<` moves the current selection to the next or previous menu page.
+* `#0` will move the current selection to the label option, or first (top) of the list of menu options.
 <br />Entering any number except 0 will move the current selection to the nth option in the list counting from the top.
 
-###### Advanced
+###### Advanced Usage
 Commands tailored towards power users.
 Quick Entry Creation:
 * `@CHARACTER_LABEL: MAIN: SEEN: HEARD: TOPIC` 
