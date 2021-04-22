@@ -41,12 +41,12 @@ Commands for creating and tweaking of context-related content, with examples. Ea
 
 ###### Scene and Perspective
 Commands for loading different scenes and switching control over the player character, with examples.
-* `/you John` switches the user POV and control to the character "John" (only use with 2nd person perspective).
+* `/y` or `/you John` switches the user POV and control to the character "John" (only use with 2nd person perspective).
 * `+💭#500: You think this will be an easy victory.` creates/updates a [custom note](#custom-notes) labeled `💭` injected before 500 characters into the context.
-* `/notes` will display all currently active [custom notes](#custom-notes).
+* `/n` or `/notes` will display all currently active [custom notes](#custom-notes).
 * `/s` or `/scene Chapter 1` opens the [scene](#scenes) creation/editing menu for the scene with the label "Chapter 1".
-* `/load Chapter 1` loads the [scene](#scenes) and executes any text to prompt as per configuration in the scene menu.
-<br />Note that `/load! Chapter 1` with that exclaimation point loads the [scene](#scenes) WITHOUT executing any text to prompt.
+* `/l` or `/load Chapter 1` loads the [scene](#scenes) and executes any text to prompt as per configuration in the scene menu.
+
 
 ###### Advanced Usage
 Commands tailored towards power users, with examples.
@@ -62,6 +62,11 @@ Commands tailored towards power users, with examples.
 #### Entries
 Entries are effectively nouns for your story.
 ##### Character
+
+
+![An Entry Example](https://cdn.discordapp.com/attachments/717764081058185316/833242721741045770/unknown.png)
+
+
 
 
 ##### Location
@@ -114,6 +119,24 @@ eg: Jill:1 Jack:4F, Mary:2Lx, John:3A+
 <br />
 
 #### Scenes
+
+...
+
+##### Changing Perspective
+
+for example in the above screenshot, if I used /you Snape it would change all the entries to:
+```
+📑 : You are a dour man.
+👁️ : You have greasy hair and a hooked nose.
+🔉 : You talks about the dark arts.
+💬 : You were a follower of the Dark Lord.
+```
+
+...
+
+##### Loading Scenes
+...
+Note that `/l!` or `/load! Chapter 1` with that exclaimation point loads the [scene](#scenes) WITHOUT executing any text to prompt.
 
 ...
 
