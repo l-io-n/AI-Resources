@@ -44,8 +44,8 @@ Commands for loading different scenes and switching control over the player char
 * `/y` or `/you John` switches the user POV and control to the character "John" (only use with 2nd person perspective).
 * `/s` or `/scene Chapter 1` opens the [scene](#scenes) creation/editing menu for the scene with the label "Chapter 1".
 * `/l` or `/load Chapter 1` loads the [scene](#scenes) and executes any text to prompt as per configuration in the scene menu.
-* `/n` or `/notes` will display all currently active [custom notes](#custom-notes).
-* `+💭#500: You think this will be an easy victory.` creates/updates a [custom note](#custom-notes) labeled `💭` injected before 500 characters into the context.
+* `/n` or `/notes` will display all currently active [custom notes](#custom-notes) (see next).
+* `+💭#500: You think this will be an easy victory` creates/updates a [custom note](#custom-notes) labeled `💭` injected before 500 characters into the context.
 
 ###### Advanced Usage
 Commands tailored towards power users, with examples.
@@ -59,7 +59,29 @@ Commands tailored towards power users, with examples.
 
 ### Commands in Detail
 #### Entries
-Entries are effectively nouns for your story.
+Entries are effectively the nouns of your story (people, places, things, etc). "Entry" is short for World Info Entry as in the optional data that AI Dungeon uses to flesh out scenarios.
+
+![Vanilla World Info Entries](https://user-images.githubusercontent.com/1778722/115657800-5e1ef200-a2ec-11eb-9517-ee6b577955b4.png?height=200)
+
+World info entries (or WIs for short) are incredibly useful and when used well can greatly enhance the AI's storytelling ability. However, writing them is cumbersome and tweaking them to function most effectively even more so. That's where Simple Context 2 comes in.
+
+Creating entries in SC2 is as easy as typing
+```
+/entry Snape
+```
+From there, all you need to do is choose what type of entry this will be (for example, type `character`)
+
+![Entry Type Menu Prompt](https://user-images.githubusercontent.com/1778722/115659018-c40c7900-a2ee-11eb-919e-bed059a5b30a.png)
+
+and a graphical interface where you can input more details will appear at the top right of the screen
+
+![Entry Fields Menu HUD](https://user-images.githubusercontent.com/1778722/115659587-9bd14a00-a2ef-11eb-974e-d4649fed7598.png)
+
+Each emoji represents a different field where you can add details about the entry
+
+
+
+
 ##### Character
 
 
