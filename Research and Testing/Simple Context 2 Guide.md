@@ -58,12 +58,15 @@ Commands tailored towards power users, with examples.
 ### Commands in Detail
 #### Entries
 
+<br />
 
 #### Relationships
 
+<br />
 
 #### Titles
 
+<br />
 
 #### Scenes
 
@@ -114,6 +117,23 @@ You can also hoist the injected note to the very top of the context.
 
 You can set as many notes on a scene as you want. Open the scene with /s My Scene and navigate to Page 2. From here you can enter notes as you normally would from outside the menus.
 
+Hiding notes is also possible. Add a note that is hidden by default:
+```
++my_note#500!: This is my test note
++my_other_note!:Some note text.
+```
+
+To hide a visible note:
+```
++my_note!
+```
+
+To show a hidden note:
+```
++my_note!
+```
+
+<br />
 
 #### Quick Entry Access
 (in progress...)
