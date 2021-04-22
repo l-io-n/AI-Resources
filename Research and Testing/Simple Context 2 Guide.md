@@ -60,6 +60,21 @@ Commands tailored towards power users, with examples.
 
 ### Commands in Detail
 #### Entries
+Entries are effectively nouns for your story.
+##### Character
+
+
+##### Location
+
+
+##### Thing
+
+
+##### Faction
+
+
+##### Other
+
 
 <br />
 
@@ -72,6 +87,18 @@ Commands tailored towards power users, with examples.
 <br />
 
 #### Scenes
+
+...
+
+Multiple scenes can be loaded at once, combining their effects
+```
+/load Intro Scene, Cloudy Weather, Jack's POV, badly hurt, fluff prompt
+```
+All notes get accumulated and overwritten in order of scene load.  The SCENE BREAK text only appears for the very first scene loaded.
+Of course you can bypass prompt like usual.
+```
+/load! healthy, sunny weather
+```
 
 ...
 
@@ -112,10 +139,15 @@ Removing a note is quick and easy:
 +🎬 Chapter 1
 ```
 
-You can also hoist the injected note to the very top of the context.
+You can hoist the injected note to the very top of the context.
 ```
 +🧠#-1:This will be at the top.
 +☁ Cloudy#-20:This will be above the -1 entry (the very very top).
+```
+
+Or automatically append a prefixed label to it
+```
+++Weather:This note will begin with Weather as a prefix
 ```
 
 You can set as many notes on a scene as you want. Open the scene with /s My Scene and navigate to Page 2. From here you can enter notes as you normally would from outside the menus.
@@ -157,6 +189,13 @@ If used *without* an exclaimation point, it will do a dry run without converting
 If used with two exclaimation points, it will *overwrite* the existing entries.
 <br />It also works great with regex. For example: `#convert!!: /.*Town/gi`
 
+
+<br />
+
+
+## What's the point of all this?
+
+The point of collecting all this data is to inject it into the context in a sensible way and hopefully coerce the AI into keeping to the "script" as it were.  This allows for an AI that doesn't forget important facts, people or motivations as often.
 
 
 
