@@ -39,6 +39,8 @@ Commands for creating and tweaking of context-related content, with examples. Ea
 ###### Scene and Perspective
 Commands for loading different scenes and switching control over the player character, with examples.
 * `/you John` switches the user POV and control to the character "John" (only use with 2nd person perspective).
+* `+💭#500: You think this will be an easy victory.` creates/updates a [custom note](#custom-notes) labeled `💭` injected before 500 characters into the context.
+* `/notes` will display all currently active [custom notes](#custom-notes).
 * `/s` or `/scene Chapter 1` opens the [scene](#scenes) creation/editing menu for the scene with the label "Chapter 1".
 * `/load Chapter 1` loads the [scene](#scenes) and executes any text to prompt as per configuration in the scene menu.
 <br />Note that `/load! Chapter 1` with that exclaimation point loads the [scene](#scenes) WITHOUT executing any text to prompt.
@@ -46,7 +48,6 @@ Commands for loading different scenes and switching control over the player char
 ###### Advanced Usage
 Commands tailored towards power users, with examples.
 * `/flush` will clear state.displayStats in the rare case that it bugs out.
-* `+💭#500: You think this will be an easy victory.` creates/updates a [custom note](#custom-notes) labeled `💭` injected before 500 characters into the context.
 * `@`, `#`, `$`, `%`, or `^` are [quick entry creation](#quick-entry-access) symbols that correspond with each entry type. Left to right, they are `Character`, `Location`, `Thing`, `Faction`, and `Other`.
   * `#Hogwarts: is a school for wizards: is a large castle: is a place of great mystery` creates the location entry with the label "Hogwarts" and fills in each of the entry's fields with the corresponding information, separated by `:`s.
   * `#Hogwarts+2:  with tall gothic spires` appends the included information to the second field of the entry labeled "Hogwarts" such that it now reads `is a large castle with tall gothic spires`.
