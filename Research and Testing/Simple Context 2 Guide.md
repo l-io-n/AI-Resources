@@ -52,7 +52,7 @@ Commands tailored towards power users, with examples.
 * `/flush` will clear state.displayStats in the rare case that it bugs out.
 * `+💭#500: You think this will be an easy victory.` creates/updates a custom note labeled `💭` injected before 500 characters into the context.
 * `@`, `#`, `$`, `%`, or `^` are quick entry creation symbols that correspond with each entry type. Left to right, they are `Character`, `Location`, `Thing`, `Faction`, and `Other`.
-  * `#Hogwarts: is a school for wizards: is a large castle: is a place of great mystery` creates the location entry with the label "Hogwarts Castle" and fills in each of the entry's fields with the corresponding information, separated by `:`s.
+  * `#Hogwarts: is a school for wizards: is a large castle: is a place of great mystery` creates the location entry with the label "Hogwarts" and fills in each of the entry's fields with the corresponding information, separated by `:`s.
   * `#Hogwarts+2:  with tall gothic spires` appends the included information to the second field of the entry labeled "Hogwarts" such that it now reads `is a large castle with tall gothic spires`.
   * `@convert!: John Smith, Jane Smith, Mary` will add all vanilla WIs with the keys "John Smith", "Jane Smith", and "Mary" as SC2 character entries.
 
