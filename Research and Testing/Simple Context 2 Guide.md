@@ -80,6 +80,21 @@ Commands tailored towards power users, with examples.
 <br />
 
 ### Details
+#### Navigation
+Simple Context 2 features a graphical menu heads-up display (HUD) for ease of use.
+
+<img src="https://cdn.discordapp.com/attachments/717764081058185316/833547181004816404/unknown.png" width="502">
+
+Navigation of a menu is done through quick input commands.
+
+
+
+Occasionally a small menu prompt will appear just above the input field when additional information is needed.
+
+<img src="https://cdn.discordapp.com/attachments/717764081058185316/833546932999421992/unknown.png" height="127">
+
+<br />
+
 #### Entries
 Entries are effectively the nouns of your story (people, places, things, etc). "Entry" is short for World Info Entry as in the optional data that AI Dungeon uses to flesh out scenarios.
 
@@ -101,10 +116,10 @@ and a graphical interface where you can input more details will appear at the to
 
 Each emoji represents a different field where you can add details about the entry. The most common fields are `MAIN`, `SEEN`, `HEARD`, and `TOPIC`. Note that not all entry types have all of these fields.
 <br />Let's go over each of these:
-* 📑 `MAIN` describes the absolute basics of your entry. If it is a character, it might include gender, race, height, etc. This always appears alongside any mention of the entry's label. Comparible to the Zaltys format `DESC` category.
-* 👁 `SEEN` captures the appearance of your entry: A character's eyes or hair, a location's hills or structures, etc. This triggers when an entry has been seen by a character or when its visual features have been noted in the story. Comparible to the Zaltys format `APPEAR` category.
-* 🔉 `HEARD` involves how an entry sounds but also how it acts. This is triggered when an entry has made a sound or spoken a line and is comparible to the Zaltys format `MIND` category.
-* 💬 `TOPIC` is for any other details that either don't fit in the previous fields or are too broad to single out into just one, such as history or favorite food. Triggered when an entry has been referenced and is comparible to the Zaltys format `SUMMARY` category.
+* `📑 MAIN` describes the absolute basics of your entry. If it is a character, it might include gender, race, height, etc. This always appears alongside any mention of the entry's label. Comparible to the Zaltys format `DESC` category.
+* `👁️ SEEN` captures the appearance of your entry: A character's eyes or hair, a location's hills or structures, etc. This triggers when an entry has been seen by a character or when its visual features have been noted in the story. Comparible to the Zaltys format `APPEAR` category.
+* `🔉 HEARD` involves how an entry sounds but also how it acts. This is triggered when an entry has made a sound or spoken a line and is comparible to the Zaltys format `MIND` category.
+* `💬 TOPIC` is for any other details that either don't fit in the previous fields or are too broad to single out into just one, such as history or favorite food. Triggered when an entry has been referenced and is comparible to the Zaltys format `SUMMARY` category.
 
 
 
@@ -290,9 +305,12 @@ If used with two exclaimation points, it will *overwrite* the existing entries.
 
 <br />
 
+#### Configuration
+
+<br />
 
 ## What's the point of all this?
-
+(note: is this section necessary anymore?)
 The point of collecting all this data is to inject it into the context in a sensible way and hopefully coerce the AI into keeping to the "script" as it were.  This allows for an AI that doesn't forget important facts, people or motivations as often.
 
 
