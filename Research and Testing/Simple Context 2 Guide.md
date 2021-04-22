@@ -13,9 +13,9 @@ A simple set of commands to build out and play your story your way.
 
 - [x] **Easily place notes or entry data *anywhere* in the context**
 
-- [x] **Customize everything from the user interface to scene breaks and paragraph spacing**
-
 - [x] **Compatible with any popular format and optionally converts entries on injection**
+
+- [x] **Customize everything from the user interface to scene breaks and paragraph spacing**
 
 - [x] **Designed from the ground up to be flexible and user-friendly**
 
