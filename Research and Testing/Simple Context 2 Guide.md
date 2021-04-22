@@ -13,14 +13,17 @@ A Harry Potter themed example world info with everything already setup can be fo
 ### Input Commands
 ###### Script and HUD Control
 Commands for tweaking functionality of the script itself and its graphical display.
+* `/config` toggles display of the configuration menu (enable/disable signposts, paragraph spacing etc).
+* `/debug` toggles debugging mode which outputs modified context to HUD.
 * `/enable` allows script to modify context (default).
 * `/disable` disables context modification and hide HUD.
 * `/show` makes the HUD visible (default).
 * `/hide` hides the HUD.
 * `/min` minimizes the HUD.
 * `/max` maximizes the HUD.
-* `/debug` toggles debugging mode which outputs modified context to HUD.
-* `/config` toggles display of the configuration menu (enable/disable signposts, paragraph spacing etc).
+
+###### Menu Navigation
+Commands for moving through the graphical display menus.
 * `!` exits any menu. If changes were made, a `y/n` prompt will appear to confirm saving of changes made.
 * `>` and `<` moves the current selection forward (down) or back (up) the list of menu options.
 * `>>` and `<<` moves the current selection to the next or previous menu page.
