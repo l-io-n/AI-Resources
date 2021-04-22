@@ -50,24 +50,14 @@ Commands for navigation of the various graphical menus.
 ###### Advanced Usage
 Commands tailored towards power users, with examples.
 * `/flush` will clear state.displayStats in the rare case that it bugs out.
-* `@`, `#`, `$`, `%`, or `^` are quick entry creation symbols.
-  <br />Each symbol corresponds with an entry type. Left to right, they are `Character`, `Location`, `Thing`, `Faction`, and `Other`.
-  * When placed left of a label, they allow for quick entry creation. Fields are separated by `:`.
-  <br />For example, `$Hogwarts Castle: is a school for wizards: has tall gothic spires: is a place of great mystery`
-or `@Snape: is a dour man: has greasy hair and a hooked nose: talks about the dark arts: was a follower of the Dark Lord`.
-  * When placed left of label along with a plus or equals symbol, they allow for quick appending/overwriting of individual fields on an existing entry. Examples:
-  <br />`@Harry+1: this is appended to the MAIN entry`
-  <br />`@Harry+main: same thing as ^`
-  <br />`@Harry=3: this will overwrite the contents of the HEARD entry`
-  <br />`@Harry=heard: same thing as ^`
-  <br />`#Hogwarts+2: is a large castle`
-  <br />`$Stargate=1: Stargate is a device used to travel to other planets`
-  * When placed left of the `convert` keyword and an exclaimation point, they convert existing vanilla world info entries in bulk.
-  <br />For example, `@convert!: John Smith, Jane Smith, Mary` will add all vanilla WIs with those keys as SC2 character entries.
-  If used *without* an exclaimation point, it will do a dry run without converting anything instead returning what *would* have been converted.
-  If used with two exclaimation points, it will *overwrite* the existing entries.
-  <br />It also works great with regex. For example: `#convert!!: /.*Town/gi`
+* `+💭#500: You think this will be an easy victory.` creates/updates a custom note labeled `💭` injected before 500 characters into the context.
+* `@`, `#`, `$`, `%`, or `^` are quick entry creation symbols that correspond with each entry type. Left to right, they are `Character`, `Location`, `Thing`, `Faction`, and `Other`.
+  * `#Hogwarts: is a school for wizards: is a large castle: is a place of great mystery` creates the location entry with the label "Hogwarts Castle" and fills in each of the entry's fields with the corresponding information, separated by `:`s.
+  * `#Hogwarts+2:  with tall gothic spires` appends the included information to the second field of the entry labeled "Hogwarts" such that it now reads `is a large castle with tall gothic spires`.
+  * `@convert!: John Smith, Jane Smith, Mary` will add all vanilla WIs with the keys "John Smith", "Jane Smith", and "Mary" as SC2 character entries.
 
+
+### Commands in Detail
 ###### Custom Notes
 This command is a catchall that allows you to not only set as many notes to inject into context as you want, but it also allows you to specify WHERE you inject the note.  Syntax is as follows:
 ```
@@ -112,3 +102,28 @@ You can also hoist the injected note to the very top of the context.
 ```
 
 You can set as many notes on a scene as you want. Open the scene with /s My Scene and navigate to Page 2. From here you can enter notes as you normally would from outside the menus.
+
+
+###### Quick Entry Access
+(in progress...)
+`@`, `#`, `$`, `%`, or `^` are quick entry creation symbols.
+<br />Each symbol corresponds with an entry type. Left to right, they are `Character`, `Location`, `Thing`, `Faction`, and `Other`.
+* When placed left of a label, they allow for quick entry creation. Fields are separated by `:`.
+<br />For example, `$Hogwarts Castle: is a school for wizards: has tall gothic spires: is a place of great mystery`
+or `@Snape: is a dour man: has greasy hair and a hooked nose: talks about the dark arts: was a follower of the Dark Lord`.
+* When placed left of label along with a plus or equals symbol, they allow for quick appending/overwriting of individual fields on an existing entry. Examples:
+<br />`@Harry+1: this is appended to the MAIN entry`
+<br />`@Harry+main: same thing as ^`
+<br />`@Harry=3: this will overwrite the contents of the HEARD entry`
+<br />`@Harry=heard: same thing as ^`
+<br />`$Stargate=1: Stargate is a device used to travel to other planets`
+* When placed left of the `convert` keyword and an exclaimation point, they convert existing vanilla world info entries in bulk.
+<br />For example, `@convert!: John Smith, Jane Smith, Mary` will add all vanilla WIs with those keys as SC2 character entries.
+If used *without* an exclaimation point, it will do a dry run without converting anything instead returning what *would* have been converted.
+If used with two exclaimation points, it will *overwrite* the existing entries.
+<br />It also works great with regex. For example: `#convert!!: /.*Town/gi`
+
+
+
+
+
