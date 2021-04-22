@@ -1,12 +1,32 @@
 # Simple Context 2
-A simple set of commands to build out the details of your story's context. 
+A simple set of commands to build out and play your story your way.
 
 ![Simple Context 2 in Action](https://cdn.discordapp.com/attachments/717764081058185316/828097660556148796/unknown.png?width=1610&height=846)
+## Main Features
+- [x] **Keep the AI on track of your story automatically**
+
+- [x] **Create, edit, and format world info entries all without leaving the input field**
+
+- [x] **Define relationships, change scenes, build factions or entire worlds**
+
+- [x] **Track which and where entries show up in the context**
+
+- [x] **Easily place notes or entry data *anywhere* in the context**
+
+- [x] **Customize everything from the user interface to scene breaks and paragraph spacing**
+
+- [x] **Designed from the ground up to be flexible and user-friendly**
+
+- [x] **Custom titles, automatic pronoun matching, character point of view swapping, and much more!**
+
+<br />
 
 More info at the official discord [here](https://discord.com/channels/653773513857171475/717764081058185316/828113500827811890).
 
-A Harry Potter themed example world info with everything already setup can be found [here](https://discord.com/channels/653773513857171475/717764081058185316/833599529554018364).
+Want to jump right in?
+<br />You can play a Harry Potter themed example world info with everything already setup [here](https://discord.com/channels/653773513857171475/717764081058185316/833599529554018364).
 
+<br />
 
 ## Usage
 
@@ -57,7 +77,7 @@ Commands tailored towards power users, with examples.
 
 <br />
 
-### Commands in Detail
+### Command Details
 #### Entries
 Entries are effectively the nouns of your story (people, places, things, etc). "Entry" is short for World Info Entry as in the optional data that AI Dungeon uses to flesh out scenarios.
 
@@ -77,7 +97,12 @@ and a graphical interface where you can input more details will appear at the to
 
 ![Entry Fields Menu HUD](https://user-images.githubusercontent.com/1778722/115659587-9bd14a00-a2ef-11eb-974e-d4649fed7598.png)
 
-Each emoji represents a different field where you can add details about the entry
+Each emoji represents a different field where you can add details about the entry. The most common fields are `MAIN`, `SEEN`, `HEARD`, and `TOPIC`. Note that not all entry types have all of these fields.
+<br />Let's go over each of these:
+* `MAIN` describes the absolute basics of your entry. If it is a character, it might include gender, race, height, etc. This always appears alongside any mention of the entry's label. Comparible to the Zaltys format `DESC` category.
+* `SEEN` captures the appearance of your entry: A character's eyes or hair, a location's hills or structures, etc. This triggers when an entry has been seen by a character or when its visual features have been noted in the story. Comparible to the Zaltys format `APPEAR` category.
+* `HEARD` involves how an entry sounds but also how it acts. This is triggered when an entry has made a sound or spoken a line and is comparible to the Zaltys format `MIND` category.
+* `TOPIC` is for any other details that either don't fit in the previous fields or are too broad to single out into just one, such as history or favorite food. Triggered when an entry has been referenced and is comparible to the Zaltys format `SUMMARY` category.
 
 
 
@@ -174,7 +199,7 @@ Of course you can bypass prompt like usual.
 ...
 
 ##### Custom Notes
-This command is a catchall that allows you to not only set as many notes to inject into context as you want, but it also allows you to specify WHERE you inject the note.  Syntax is as follows:
+This command is a catchall that allows you to not only set as many notes to inject into context as you want, but it also allows you to specify WHERE you inject the note. Syntax is as follows:
 ```
 +LABEL#POSITION:TEXT
 ```
