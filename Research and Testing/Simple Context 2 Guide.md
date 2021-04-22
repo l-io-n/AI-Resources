@@ -42,11 +42,10 @@ Commands for creating and tweaking of context-related content, with examples. Ea
 ###### Scene and Perspective
 Commands for loading different scenes and switching control over the player character, with examples.
 * `/y` or `/you John` switches the user POV and control to the character "John" (only use with 2nd person perspective).
-* `+💭#500: You think this will be an easy victory.` creates/updates a [custom note](#custom-notes) labeled `💭` injected before 500 characters into the context.
-* `/n` or `/notes` will display all currently active [custom notes](#custom-notes).
 * `/s` or `/scene Chapter 1` opens the [scene](#scenes) creation/editing menu for the scene with the label "Chapter 1".
 * `/l` or `/load Chapter 1` loads the [scene](#scenes) and executes any text to prompt as per configuration in the scene menu.
-
+* `/n` or `/notes` will display all currently active [custom notes](#custom-notes).
+* `+💭#500: You think this will be an easy victory.` creates/updates a [custom note](#custom-notes) labeled `💭` injected before 500 characters into the context.
 
 ###### Advanced Usage
 Commands tailored towards power users, with examples.
