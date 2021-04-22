@@ -21,10 +21,14 @@ Commands for tweaking functionality of the script itself and its graphical displ
 * `/max` maximizes the HUD.
 * `/debug` toggles debugging mode which outputs modified context to HUD.
 * `/config` toggles display of the configuration menu (enable/disable signposts, paragraph spacing etc).
+* `!` exits any menu. If changes were made, a `y/n` prompt will appear to confirm saving of changes made.
+* `>` and `<` moves the current selection forward (down) or back (up) the list of menu options.
+* `>>` and `<<` moves the current selection to the next or previous menu page.
+* `#0` will move the current selection to the label option, or first (top) of the list of menu options.
+<br />Entering any number except 0 will move the current selection to the nth option in the list counting from the top.
 
 ###### Context Definition
-Commands for creating and tweaking of context-related content, with examples.
-Each has a graphical menu to guide you through the process.
+Commands for creating and tweaking of context-related content, with examples. Each has a graphical menu to guide you through the process.
 * `/e` or `/entry John` creates or loads the world info entry with the label "John".
 * `/r` or `/rel John` opens the relationship menu for "John".
 * `/t` or `/title ex wife` creates or loads the title with the label "ex wife".
@@ -39,14 +43,6 @@ Commands for loading different scenes and switching control over the player char
 * `/load Chapter 1` loads the scene and executes any text to prompt as per configuration in the scene menu.
 <br />Note that `/load! Chapter 1` with that exclaimation point loads the scene WITHOUT executing any text to prompt.
 
-###### Graphical Menu Navigation
-Commands for navigation of the various graphical menus.
-* `!` exits any menu. If changes were made, a `y/n` prompt will appear to confirm saving of changes made.
-* `>` and `<` moves the current selection forward (down) or back (up) the list of menu options.
-* `>>` and `<<` moves the current selection to the next or previous menu page.
-* `#0` will move the current selection to the label option, or first (top) of the list of menu options.
-<br />Entering any number except 0 will move the current selection to the nth option in the list counting from the top.
-
 ###### Advanced Usage
 Commands tailored towards power users, with examples.
 * `/flush` will clear state.displayStats in the rare case that it bugs out.
@@ -56,9 +52,23 @@ Commands tailored towards power users, with examples.
   * `#Hogwarts+2:  with tall gothic spires` appends the included information to the second field of the entry labeled "Hogwarts" such that it now reads `is a large castle with tall gothic spires`.
   * `@convert!: John Smith, Jane Smith, Mary` will add all vanilla WIs with the keys "John Smith", "Jane Smith", and "Mary" as SC2 character entries.
 
+<br />
 
 ### Commands in Detail
-###### Custom Notes
+#### Entries
+
+
+#### Relationships
+
+
+#### Titles
+
+
+#### Scenes
+
+...
+
+##### Custom Notes
 This command is a catchall that allows you to not only set as many notes to inject into context as you want, but it also allows you to specify WHERE you inject the note.  Syntax is as follows:
 ```
 +LABEL#POSITION:TEXT
@@ -104,7 +114,7 @@ You can also hoist the injected note to the very top of the context.
 You can set as many notes on a scene as you want. Open the scene with /s My Scene and navigate to Page 2. From here you can enter notes as you normally would from outside the menus.
 
 
-###### Quick Entry Access
+#### Quick Entry Access
 (in progress...)
 `@`, `#`, `$`, `%`, or `^` are quick entry creation symbols.
 <br />Each symbol corresponds with an entry type. Left to right, they are `Character`, `Location`, `Thing`, `Faction`, and `Other`.
