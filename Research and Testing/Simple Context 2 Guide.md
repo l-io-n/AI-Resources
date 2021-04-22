@@ -80,6 +80,33 @@ Entries are effectively nouns for your story.
 
 #### Relationships
 
+...
+
+Relationship Mapping:
+```
+DISPOSITIONS
+ 1 hate
+ 2 dislike
+ 3 neutral
+ 4 like
+ 5 love
+
+MODIFIERS
+ x ex
+
+TYPES
+ F friends/extended family
+ L lovers
+ A allies
+ M married/member of faction
+ E enemies
+
+[1-5][FLAME][-+x]
+
+eg: Jill:1 Jack:4F, Mary:2Lx, John:3A+
+```
+
+
 <br />
 
 #### Titles
