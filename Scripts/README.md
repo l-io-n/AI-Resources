@@ -11,7 +11,7 @@ Just download the zip in the [releases folder](https://github.com/l-io-n/AIDunge
 <br />
 
 **AI Dungeon Adventure Text CSS Replacer** <br />
-Tampermonkey/Greasemonkey script that allows you to change the AI Dungeon text to any css formatting you'd like. That means fancy fonts, colors, drop-shadow, whatever you want! <br />
+Tampermonkey/Greasemonkey script that allows you to change the AI Dungeon text css however you like without any css knowledge required. That means fancy fonts, colors, drop-shadow, whatever you want! <br />
 > *How to Install*
 1. Install the Tampermonkey extension on Chrome or Firefox.
 2. Click on AIDungeonAdventureTextCSSReplacer.js in the [releases folder](https://github.com/l-io-n/AIDungeon-Resources/tree/main/Scripts/Release%20ZIPs).
