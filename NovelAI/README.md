@@ -1,3 +1,3 @@
-## Novel AI Resources
+## NovelAI Resources
 
-Various custom content and resources for use within [Novel AI](https://novelai.net).
+Various custom content and resources for use within [NovelAI](https://novelai.net).
