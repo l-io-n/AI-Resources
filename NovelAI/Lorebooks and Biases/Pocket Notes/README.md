@@ -10,13 +10,13 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 - [Usage](#usage)
 
-- [List of Tools](#featuring)
-
-- [Community Add-Ons](#community-add-ons)
+- [Command List](#featuring)
 
 - [Notes on Recommend Use](#notes-on-recommend-use)
 
 - [What's New](#whats-new)
+
+- [Community Add-Ons](#community-add-ons)
 
 - [Credits](#credits)
 
@@ -185,29 +185,6 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 [^3]: For the Prompt Generator command, note that the optional # after `Start` corresponds with the 1st/2nd/3rd person perspective. Leaving `Start` without a following number allows any perspective of the prompt to be generated.
 ---
 
-#### Community Add-Ons
-[RPG Generator Expansion](https://cdn.discordapp.com/attachments/868472982471843870/915242621654405120/Pocket_Notes_RPG_Edition.lorebook)
-<br>by [Valahraban | Belverk](https://discord.com/channels/836774308772446268/868472982471843870/915242621671190529)
-> This contains the previous version of Pocket Notes published by @lion and few new generators for the words - Ambience, Equipment, Plants, Wildlife, Creatures. A small project I'm working on with lion's cooperation. Very small tweaks were made to the Narrators for personal taste such as grammar tweaks and enforcing the [ Dialogue: ] format for the narrators.
-
-> Ambience adds and generates Ambience for any environment/scenario you request. Equipment generates a relatively detailed description of the character's gear. Plants generates plant life for the requested environment. Wildlife does the same for real-life animals (and monsters if you use a fantasy heavy prompt), Creatures is similar but specialized for fantasy and monsters. The mentioned keywords are complete, but I have a few more words to experiment with and add to make this a more complete generator package. So consider this a complete preview version! Looking forward to sharing work with lion and friends to make pocket notes and add-ons even greater.
-
-![Examples of use](https://cdn.discordapp.com/attachments/868472982471843870/915242706115104838/unknown.png)
-
-<br>
-
-[Boring to Sexy](https://rentry.co/biases#boring-to-sexy)
-<br> by [Anon](https://arch.b4k.co/vg/thread/360670534/#360811748)
-> [This is a] Slightly updated version to reflect changes made to Pocket Notes v4. If you are already using Pocket Notes or plan to in the future this should slip in without conflict. If you want to create your own command/text generator you can duplicate either the Boring to Sexy entry or, if you're already using Pocket Notes, one of the Pocket Directors or Pocket Writers and build from there.
-
->Note that the original Boring to Sexy text generator wasn't really designed for something like this, so it attempts to cover all perspectives with broad strokes. This can lead to leakage of the incorrect perspective (particularly 2nd person) in scenarios where it might not be appropriate. To try and address this I created 3 entries for each perspective (Default is also available if you'd like to use or tinker with it). All entries are disabled by default. So be sure to ENABLE whichever is most relevant to your scenario. If you're willing to go the extra mile you can also create perspective based command keys for each entry so you can leave everything enabled (ex. sexy1, sexy2, sexy3, etc.). You can also fiddle with Phrase bias to get similar results by negatively biasing perspective keywords, but I figure most people want a set-it-and-forget-it sorta thing. Whatever floats your boat.
-
-![Examples and instructions](https://files.catbox.moe/9azlsj.jpg)
-
-<br>
-
----
-
 #### Notes on Recommend Use
 
 - Due to the differences between versions of the finetune and modules trained on them, be sure to verify that the version of Pocket Notes you are using corresponds with the model and modules you intend to use with it. Otherwise, results may vary quite a bit. If you are using the correct version and are still having trouble, try changing up your phrasing since the AI might not whichevert tokens you might be using.
@@ -229,6 +206,29 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
  - Replaced some of the commands with ones that v4 Sigurd seems more naturally inclined to use for the same purpose.
  - Tweaked all of the examples to be more consistent (and thus more powerful/effective).
  - Adjusted the phrase biasing in a lot of cases to function better with Sigurd v4.
+
+<br>
+
+---
+
+#### Community Add-Ons
+[RPG Generator Expansion](https://cdn.discordapp.com/attachments/868472982471843870/915242621654405120/Pocket_Notes_RPG_Edition.lorebook)
+<br>by [Valahraban | Belverk](https://discord.com/channels/836774308772446268/868472982471843870/915242621671190529)
+> This contains the previous version of Pocket Notes published by @lion and few new generators for the words - Ambience, Equipment, Plants, Wildlife, Creatures. A small project I'm working on with lion's cooperation. Very small tweaks were made to the Narrators for personal taste such as grammar tweaks and enforcing the [ Dialogue: ] format for the narrators.
+
+> Ambience adds and generates Ambience for any environment/scenario you request. Equipment generates a relatively detailed description of the character's gear. Plants generates plant life for the requested environment. Wildlife does the same for real-life animals (and monsters if you use a fantasy heavy prompt), Creatures is similar but specialized for fantasy and monsters. The mentioned keywords are complete, but I have a few more words to experiment with and add to make this a more complete generator package. So consider this a complete preview version! Looking forward to sharing work with lion and friends to make pocket notes and add-ons even greater.
+
+![Examples of use](https://cdn.discordapp.com/attachments/868472982471843870/915242706115104838/unknown.png)
+
+<br>
+
+[Boring to Sexy](https://rentry.co/biases#boring-to-sexy)
+<br> by [Anon](https://arch.b4k.co/vg/thread/360670534/#360811748)
+> [This is a] Slightly updated version to reflect changes made to Pocket Notes v4. If you are already using Pocket Notes or plan to in the future this should slip in without conflict. If you want to create your own command/text generator you can duplicate either the Boring to Sexy entry or, if you're already using Pocket Notes, one of the Pocket Directors or Pocket Writers and build from there.
+
+>Note that the original Boring to Sexy text generator wasn't really designed for something like this, so it attempts to cover all perspectives with broad strokes. This can lead to leakage of the incorrect perspective (particularly 2nd person) in scenarios where it might not be appropriate. To try and address this I created 3 entries for each perspective (Default is also available if you'd like to use or tinker with it). All entries are disabled by default. So be sure to ENABLE whichever is most relevant to your scenario. If you're willing to go the extra mile you can also create perspective based command keys for each entry so you can leave everything enabled (ex. sexy1, sexy2, sexy3, etc.). You can also fiddle with Phrase bias to get similar results by negatively biasing perspective keywords, but I figure most people want a set-it-and-forget-it sorta thing. Whatever floats your boat.
+
+![Examples and instructions](https://files.catbox.moe/9azlsj.jpg)
 
 <br>
 
