@@ -16,7 +16,7 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 - [Details and Disclaimers](#details-and-disclaimers)
 
-- [What's New](#what%27s-new)
+- [What's New](#whats-new)
 
 - [Credits](#credits)
 
