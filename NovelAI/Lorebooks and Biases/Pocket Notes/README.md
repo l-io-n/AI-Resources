@@ -10,11 +10,11 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 - [Usage](#usage)
 
+- [What's New](#whats-new)
+
 - [Command List](#featuring)
 
 - [Notes on Recommend Use](#notes-on-recommend-use)
-
-- [What's New](#whats-new)
 
 - [Community Add-Ons](#community-add-ons)
 
@@ -32,6 +32,21 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 <br>Simply type the command (optionally surrounded by square brackets `[``]`) into your story followed by an input relating to the command, and hit Send. Pocket Notes will automatically add a newline followed by a corresponding output.
 <br><sub>For more information and command specific notes, please refer to the [Notes on Recommend Use](#notes-on-recommend-use) section.</sub>
 <br><br>
+
+---
+
+#### What's New
+ - Added new tools: Perspective Converter, Summarizer, and Difficulty Assessor.
+ - Renamed and shortened/clarified some existing tools. New names are:
+<br>  Do > Action Enforcer
+<br>  Say > Dialoguer
+<br>  Story > Descriptive Narrator
+ - Broke out Tone Shifter from previous Story tool into its own tool.
+ - Replaced some of the commands with ones that v4 Sigurd seems more naturally inclined to use for the same purpose.
+ - Tweaked all of the examples to be more consistent (and thus more powerful/effective).
+ - Adjusted the phrase biasing in a lot of cases to function better with Sigurd v4.
+
+<br>
 
 ---
 
@@ -193,21 +208,6 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 - All Pocket Editors have a large Search Range, meaning their lorebook keys may continue to trigger more than once, especially with a shorter Output Length setting (such as the default).
 - While some commands (such as `Start`, `Setup`, and `Plot`) can be used on their own without any additional input, most work best when given an input following the command on the same line. When in doubt, refer to the examples in the corresponding lorebook entry.
 - Later versions have discontinued support for slash `/` commands. All commands now require a colon `:` after the command keyword.
-
----
-
-#### What's New
- - Added new tools: Perspective Converter, Summarizer, and Difficulty Assessor.
- - Renamed and shortened/clarified some existing tools. New names are:
-<br>  Do > Action Enforcer
-<br>  Say > Dialoguer
-<br>  Story > Descriptive Narrator
- - Broke out Tone Shifter from previous Story tool into its own tool.
- - Replaced some of the commands with ones that v4 Sigurd seems more naturally inclined to use for the same purpose.
- - Tweaked all of the examples to be more consistent (and thus more powerful/effective).
- - Adjusted the phrase biasing in a lot of cases to function better with Sigurd v4.
-
-<br>
 
 ---
 
