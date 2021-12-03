@@ -175,9 +175,9 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
   <details>
   <summary>Example...</summary>
   
-  > [ Assess: Sneaking up behind the man and knocking him out ]
+  > [ Assess: Catching a baseball ]
   
-  > Difficulty Rating: Medium to Hard, depending on the man's awareness. Very difficult without a good weapon or very skillful stealth skills. Easy with those in hand, but it's hard to get close enough to sneak up on someone without them noticing you first.
+  > Difficulty Rating: Easy enough for you to accomplish given your current skill level and equipment. However, the likelihood of success is low due to the ball's current trajectory and aerodynamic properties. Your best bet would be to throw it straight upwards and let gravity do the rest.
 </details>
 
 - **Interpreter** - Deciphers cryptic messages or vague keywords.
