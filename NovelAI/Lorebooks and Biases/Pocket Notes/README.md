@@ -26,6 +26,10 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 - [Community Add-Ons](#community-add-ons)
 
+  - [RPG Generator Expansion](#rpg-generator-expansion-by-valahraban-belverk)
+
+  - [Boring to Sexy](#boring-to-sexy)
+
 - [Changelog](#changelog)
 
 - [Credits](#credits)
@@ -80,8 +84,8 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 ---
 
-### List of Components
-#### **Pocket Directors**
+#### List of Components
+##### **Pocket Directors**
 *Force the AI to proceed as you please!*
 
 - **Action Enforcer** - Enforces a specific action or event to happen.
@@ -124,9 +128,10 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
   
   > He was nothing but mist, wrapping around her body and pulling her closer to him; a chill breeze caressing every inch of skin it touched, tickling its way through the hollows of her mind, sending goosebumps over her stomach and lower still.
 </details>
-<br>
 
-#### **Pocket Editors**
+--
+
+##### **Pocket Editors**
 *Have the AI improve your writing!*[^1]
 
 - **Perspective Converters**[^2] - Converts a given passage of text to a different narrative perspective.
@@ -159,9 +164,10 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
   
   > Summary: You agree to help the sinister woman find the dragon's treasure. She promises to let you live if you lead her to the dragon. She also warns you that once she has the treasure she may kill you.
 </details>
-<br>
 
-#### **Pocket Guides**
+--
+
+##### **Pocket Guides**
 *Ask the AI for clarification!*
 
 - **Difficulty Assessor** - Determines the difficulty of an action or stunt.
@@ -193,9 +199,10 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
   
   > Answer: It's not a wall, it's a fence. And it's made out of metal poles and chicken wire, which means that you can't climb over it or cut through it with anything but a very sharp knife.
 </details>
-<br>
 
-#### **Pocket Writers**
+--
+
+##### **Pocket Writers**
 *Can't think of anything? Have the AI write for you!*
 
 - **Prompt Generators**[^3] - Generates a new scenario prompt in 1st, 2nd, or 3rd person.
@@ -236,28 +243,31 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 #### Notes on Recommend Use
 
-- Due to the differences between versions of the finetune and modules trained on them, be sure to verify that the version of Pocket Notes you are using corresponds with the model and modules you intend to use with it. Otherwise, results may vary quite a bit. If you are using the correct version and are still having trouble, try changing up your phrasing since the AI might not whichevert tokens you might be using.
-- It is not necessary to type a newline after your command as it will be generated automatically. You are free to use upper/lowercase and optionally encapsulate your command in square brackets `[``]`. Some commands work better with or without brackets. Bracket spacing does not matter much and all commands should work fine with both `[ Command:` as well as `[Command:`.
-- If the AI starts to repeat/leak input commands on its own, it is recommended to either delete or comment out your commands after use. This is done by putting two hashtags `##` at the start of the line. For example: `##[ Do: Escape the attacker]`
-- All Pocket Editors have a large Search Range, meaning their lorebook keys may continue to trigger more than once, especially with a shorter Output Length setting (such as the default).
-- While some commands (such as `Start`, `Setup`, and `Plot`) can be used on their own without any additional input, most work best when given an input following the command on the same line. When in doubt, refer to the examples in the corresponding lorebook entry.
-- Later versions have discontinued support for slash `/` commands. All commands now require a colon `:` after the command keyword.
+> <sub>Due to the differences between versions of the finetune and modules trained on them, be sure to verify that the version of Pocket Notes you are using corresponds with the model and modules you intend to use with it. Otherwise, results may vary quite a bit. If you are using the correct version and are still having trouble, try changing up your phrasing since the AI might not whichevert tokens you might be using.</sub>
+
+> <sub>It is not necessary to type a newline after your command as it will be generated automatically. You are free to use upper/lowercase and optionally encapsulate your command in square brackets `[``]`. Some commands work better with or without brackets. Bracket spacing does not matter much and all commands should work fine with both `[ Command:` as well as `[Command:`.</sub>
+
+> <sub>If the AI starts to repeat/leak input commands on its own, it is recommended to either delete or comment out your commands after use. This is done by putting two hashtags `##` at the start of the line. For example: `##[ Do: Escape the attacker]`.</sub>
+
+> <sub>All Pocket Editors have a large Search Range, meaning their lorebook keys may continue to trigger more than once, especially with a shorter Output Length setting (such as the default).</sub>
+
+> <sub>While some commands (such as `Start`, `Setup`, and `Plot`) can be used on their own without any additional input, most work best when given an input following the command on the same line. When in doubt, refer to the examples in the corresponding lorebook entry.</sub>
+
+> <sub>Later versions have discontinued support for slash `/` commands. All commands now require a colon `:` after the command keyword.</sub>
 
 ---
 
 #### Community Add-Ons
-[RPG Generator Expansion](https://cdn.discordapp.com/attachments/868472982471843870/915242621654405120/Pocket_Notes_RPG_Edition.lorebook)
-<br>by [Valahraban | Belverk](https://discord.com/channels/836774308772446268/868472982471843870/915242621671190529)
+##### [RPG Generator Expansion](https://cdn.discordapp.com/attachments/868472982471843870/915242621654405120/Pocket_Notes_RPG_Edition.lorebook)<br><sub>by [Valahraban | Belverk](https://discord.com/channels/836774308772446268/868472982471843870/915242621671190529)</sub>
 > This contains the previous version of Pocket Notes published by @lion and few new generators for the words - Ambience, Equipment, Plants, Wildlife, Creatures. A small project I'm working on with lion's cooperation. Very small tweaks were made to the Narrators for personal taste such as grammar tweaks and enforcing the [ Dialogue: ] format for the narrators.
 
 > Ambience adds and generates Ambience for any environment/scenario you request. Equipment generates a relatively detailed description of the character's gear. Plants generates plant life for the requested environment. Wildlife does the same for real-life animals (and monsters if you use a fantasy heavy prompt), Creatures is similar but specialized for fantasy and monsters. The mentioned keywords are complete, but I have a few more words to experiment with and add to make this a more complete generator package. So consider this a complete preview version! Looking forward to sharing work with lion and friends to make pocket notes and add-ons even greater.
 
 ![Examples of use](https://cdn.discordapp.com/attachments/868472982471843870/915242706115104838/unknown.png)
 
-<br>
+--
 
-[Boring to Sexy](https://rentry.co/biases#boring-to-sexy)
-<br> by [Anon](https://arch.b4k.co/vg/thread/360670534/#360811748)
+##### [Boring to Sexy](https://rentry.co/biases#boring-to-sexy)<br><sub>by [Anon](https://arch.b4k.co/vg/thread/360670534/#360811748)</sub>
 > [This is a] Slightly updated version to reflect changes made to Pocket Notes v4. If you are already using Pocket Notes or plan to in the future this should slip in without conflict. If you want to create your own command/text generator you can duplicate either the Boring to Sexy entry or, if you're already using Pocket Notes, one of the Pocket Directors or Pocket Writers and build from there.
 
 >Note that the original Boring to Sexy text generator wasn't really designed for something like this, so it attempts to cover all perspectives with broad strokes. This can lead to leakage of the incorrect perspective (particularly 2nd person) in scenarios where it might not be appropriate. To try and address this I created 3 entries for each perspective (Default is also available if you'd like to use or tinker with it). All entries are disabled by default. So be sure to ENABLE whichever is most relevant to your scenario. If you're willing to go the extra mile you can also create perspective based command keys for each entry so you can leave everything enabled (ex. sexy1, sexy2, sexy3, etc.). You can also fiddle with Phrase bias to get similar results by negatively biasing perspective keywords, but I figure most people want a set-it-and-forget-it sorta thing. Whatever floats your boat.
@@ -268,9 +278,9 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 ---
 
-##### Changelog
+#### Changelog
 
-###### Version 1.1 - Sigurd v4 Update <sub>11/18/2021</sub>
+##### Version 1.1 - Sigurd v4 Update <sub>11/18/2021</sub>
 
 <sub>
 
@@ -302,7 +312,7 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 --
 
-###### Version 1.0 (Sigurd v3) <sub>11/09/2021</sub>
+##### Version 1.0 (Sigurd v3) <sub>11/09/2021</sub>
 <sub>
 
 - Created Pocket Notes including Directors, Guides, and Writers components.
@@ -317,7 +327,7 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 ---
 
-##### Credits
+#### Credits
 Pocket Notes by lion
 
 <sub>
