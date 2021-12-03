@@ -12,11 +12,21 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 - [What's New](#whats-new)
 
-- [Command List](#featuring)
+- [Pocket Notes Components List](#featuring)
+
+  - [Pocket Directors](#pocket-directors)
+
+  - [Pocket Editors](#pocket-editors)
+
+  - [Pocket Guides](#pocket-guides)
+
+  - [Pocket Writers](#pocket-writers)
 
 - [Notes on Recommend Use](#notes-on-recommend-use)
 
 - [Community Add-Ons](#community-add-ons)
+
+- [Changelog](#changelog)
 
 - [Credits](#credits)
 
@@ -36,22 +46,27 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 ---
 
 #### What's New
- - Added new tools: Perspective Converter, Summarizer, and Difficulty Assessor.
- - Renamed and shortened/clarified some existing tools. New names are:
-<br>  Do > Action Enforcer
-<br>  Say > Dialoguer
-<br>  Story > Descriptive Narrator
- - Broke out Tone Shifter from previous Story tool into its own tool.
- - Replaced some of the commands with ones that v4 Sigurd seems more naturally inclined to use for the same purpose.
- - Tweaked all of the examples to be more consistent (and thus more powerful/effective).
- - Adjusted the phrase biasing in a lot of cases to function better with Sigurd v4.
+<sub>11/18/2021</sub>
+- Added new tools: Perspective Converter, Summarizer, and Difficulty Assessor.
+- Added new component: Pocket Editors
+- Renamed and shortened/clarified some existing tools. New names are:
+  <br> Do > Action Enforcer
+  <br> Say > Dialoguer
+  <br> Story > Descriptive Narrator
+- Removed support for slash `/` commands.
+- Broke out Tone Shifter from previous Story tool into its own tool.
+- Replaced some of the commands with ones that v4 Sigurd seems more naturally inclined to use for the same purpose.
+- Reorganized and categorized commands better.
+- Tweaked all of the examples to be more consistent (and thus more powerful/effective).
+- Adjusted the phrase biasing in a lot of cases to function better with Sigurd v4.
 
 <br>
 
 ---
 
 ### Featuring
-#### **Pocket Directors** - *Force the AI to proceed as you please!*
+#### **Pocket Directors**
+*Force the AI to proceed as you please!*
 
 - **Action Enforcer** - Enforces a specific action or event to happen.
 <br>*Command*: `Do:`
@@ -95,7 +110,8 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 </details>
 <br>
 
-#### **Pocket Editors**[^1] - *Have the AI improve your writing!*
+#### **Pocket Editors**
+*Have the AI improve your writing!*[^1]
 
 - **Perspective Converters**[^2] - Converts a given passage of text to a different narrative perspective.
 <br>*Commands*: `[ Per1:`, `[ Per2:`, `[ Per3:`, `[ Per3m:`, or `[ Per3f:`
@@ -129,7 +145,8 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 </details>
 <br>
 
-#### **Pocket Guides** - *Ask the AI for clarification!*
+#### **Pocket Guides**
+*Ask the AI for clarification!*
 
 - **Difficulty Assessor** - Determines the difficulty of an action or stunt.
 <br>*Command*: `Assess:`
@@ -162,7 +179,8 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 </details>
 <br>
 
-#### **Pocket Writers** - *Can't think of anything? Have the AI write for you!*
+#### **Pocket Writers**
+*Can't think of anything? Have the AI write for you!*
 
 - **Prompt Generators**[^3] - Generates a new scenario prompt in 1st, 2nd, or 3rd person.
 <br>*Commands*: `Start:`, `Start1:`, `Start2:`, or `Start3:`
@@ -234,15 +252,82 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 ---
 
+##### Changelog
+
+###### Version 1.1 - Sigurd v4 Update <sub>11/18/2021</sub>
+
+<sub>
+
+- Added new tools: Perspective Converter, Summarizer, and Difficulty Assessor.
+
+- Added new component: Pocket Editors
+
+- Renamed and shortened/clarified some existing tools. New names are:
+
+  <br> Do > Action Enforcer
+
+  <br> Say > Dialoguer
+
+  <br> Story > Descriptive Narrator
+
+- Removed support for slash `/` commands.
+
+- Broke out Tone Shifter from previous Story tool into its own tool.
+
+- Replaced some of the commands with ones that v4 Sigurd seems more naturally inclined to use for the same purpose.
+
+- Reorganized and categorized commands better.
+
+- Tweaked all of the examples to be more consistent (and thus more powerful/effective).
+
+- Adjusted the phrase biasing in a lot of cases to function better with Sigurd v4.
+
+</sub>
+
+--
+
+###### Version 1.0 (Sigurd v3) <sub>11/09/2021</sub>
+<sub>
+
+- Created Pocket Notes including Directors, Guides, and Writers components.
+
+- Commands for these components include:
+
+  <br> /Do, /Say, /Story, /Interpret, /Question, /Plot, /Start, /Setup, /Write
+
+</sub>
+
+<br>
+
+---
+
 ##### Credits
-Pocket Notes by lion. This lorebook utilizes improved versions of my existing tools:
+Pocket Notes by lion
+
+<sub>
+This lorebook utilizes improved versions of my existing tools:
+
 - Prose Enhancer
+
 - Input Enhancer
+
 - Better Said Words
+
 - Sensory Enhancer
+
 - Oracle
+
 - Tell, Don't Show
+
 - DIY Prompt Starter Kit
+
 - Plot Hook Generator
+
 <br>...as well as some minor examples from the community
-<br>(Thank you everyone for all your help!)
+ 
+</sub>
+
+<br>*Thank you everyone for all your help!*
+
+<br>
+
