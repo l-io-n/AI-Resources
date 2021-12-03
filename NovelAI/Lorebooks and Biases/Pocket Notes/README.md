@@ -12,7 +12,7 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 - [What's New](#whats-new)
 
-- [Pocket Notes Components List](#featuring)
+- [List of Components](#list-of-components)
 
   - [Pocket Directors](#pocket-directors)
 
@@ -47,24 +47,40 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 #### What's New
 <sub>11/18/2021</sub>
+
+<sub>
+
 - Added new tools: Perspective Converter, Summarizer, and Difficulty Assessor.
+
 - Added new component: Pocket Editors
+
 - Renamed and shortened/clarified some existing tools. New names are:
+
   <br> Do > Action Enforcer
+
   <br> Say > Dialoguer
+
   <br> Story > Descriptive Narrator
+
 - Removed support for slash `/` commands.
+
 - Broke out Tone Shifter from previous Story tool into its own tool.
+
 - Replaced some of the commands with ones that v4 Sigurd seems more naturally inclined to use for the same purpose.
+
 - Reorganized and categorized commands better.
+
 - Tweaked all of the examples to be more consistent (and thus more powerful/effective).
+
 - Adjusted the phrase biasing in a lot of cases to function better with Sigurd v4.
+
+</sub>
 
 <br>
 
 ---
 
-### Featuring
+### List of Components
 #### **Pocket Directors**
 *Force the AI to proceed as you please!*
 
