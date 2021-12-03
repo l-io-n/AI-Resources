@@ -26,9 +26,9 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 - [Community Add-Ons](#community-add-ons)
 
-  - [RPG Generator Expansion](#rpg-generator-expansion-by-valahraban-belverk)
+  - [RPG Generator Expansion](#rpg-generator-expansionby-valahraban--belverk)
 
-  - [Boring to Sexy](#boring-to-sexy)
+  - [Boring to Sexy](#boring-to-sexyby-anon)
 
 - [Changelog](#changelog)
 
