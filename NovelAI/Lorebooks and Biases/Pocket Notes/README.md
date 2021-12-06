@@ -50,33 +50,27 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 ---
 
 #### What's New
-<sub>11/18/2021</sub>
+<sub>12/05/2021</sub>
 
 <sub>
 
-- Added new tools: Perspective Converter, Summarizer, and Difficulty Assessor.
+- Added new tool: Tense Converter (both Past and Present versions).
 
-- Added new component: Pocket Editors
+- Combined Oracles into single tool with more flexibility for asking different types of questions.
 
-- Renamed and shortened/clarified some existing tools. New names are:
+- Tweaked the Oracle's phrase biasing to be more objective in its answers.
 
-  <br> Do > Action Enforcer
+- Overhauled the Difficulty Assessor function better, added support for likelihood and detail assessment, and renamed to Judge.
 
-  <br> Say > Dialoguer
+- Adjusted the Insertion Order and Position of almost every tool to better function with full context. *(Thanks Anon!)*
 
-  <br> Story > Descriptive Narrator
+- Adjusted RegEx keys to be more flexible and account for end brackets.
 
-- Removed support for slash `/` commands.
+- Revisited some of the global and individual phrase biasing to be less potentially destructive and better suit the individual needs of each tool.
 
-- Broke out Tone Shifter from previous Story tool into its own tool.
+- Separated out each category into its own modular component lorebook for greater organization and portability.
 
-- Replaced some of the commands with ones that v4 Sigurd seems more naturally inclined to use for the same purpose.
-
-- Reorganized and categorized commands better.
-
-- Tweaked all of the examples to be more consistent (and thus more powerful/effective).
-
-- Adjusted the phrase biasing in a lot of cases to function better with Sigurd v4.
+- Created optional individual ban token (`.badwords`) files to prevent the AI from leaking any commands into its own outputs.
 
 </sub>
 
@@ -180,16 +174,6 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 ##### **Pocket Guides**
 *Ask the AI for clarification!*
 
-- **Judge** - Assesses the difficulty of a stunt, likelihood of a fact being true or action being successful, or measurement of something requiring precision.
-<br>*Command*: `Judge:`
-  <details>
-  <summary>Example...</summary>
-  
-  > [ Judge: Catching a baseball ]
-  
-  > Easy enough for you to accomplish given your current skill level and equipment. However, the likelihood of success is low due to the ball's current trajectory and aerodynamic properties. Your best bet would be to throw it straight upwards and let gravity do the rest.
-</details>
-
 - **Interpreter** - Deciphers cryptic messages or vague keywords.
 <br>*Command*: `Interpret:`
   <details>
@@ -198,6 +182,16 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
   > [ Interpret: The setting is bridge involving cheap belt and dwarven cooridor. Your quest is to retrieve the superb leather jacket at the launch pad. Trying to stop you is the petty criminal skilled in hypnotism. ]
   
   > Meaning: A dwarf and a thief are both attempting to steal a rare jacket from a merchant crossing a rickety bridge; the dwarf has been put under hypnosis by the thief, who wants it for himself.
+</details>
+
+- **Judge** - Assesses the difficulty of a stunt, likelihood of a fact being true or action being successful, or measurement of something requiring precision.
+<br>*Command*: `Judge:`
+  <details>
+  <summary>Example...</summary>
+  
+  > [ Judge: Catching a baseball ]
+  
+  > Easy enough for you to accomplish given your current skill level and equipment. However, the likelihood of success is low due to the ball's current trajectory and aerodynamic properties. Your best bet would be to throw it straight upwards and let gravity do the rest.
 </details>
 
 - **Oracle** - Answers a specific question about your current story.
@@ -289,6 +283,32 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 ---
 
 #### Changelog
+
+##### Version 2.0 - Portability Update <sub>12/05/2021</sub>
+
+<sub>
+
+- Added new tool: Tense Converter (both Past and Present versions).
+
+- Combined Oracles into single tool with more flexibility for asking different types of questions.
+
+- Tweaked the Oracle's phrase biasing to be more objective in its answers.
+
+- Overhauled the Difficulty Assessor function better, added support for likelihood and detail assessment, and renamed to Judge.
+
+- Adjusted the Insertion Order and Position of almost every tool to better function with full context. *(Thanks Anon!)*
+
+- Adjusted RegEx keys to be more flexible and account for end brackets.
+
+- Revisited some of the global and individual phrase biasing to be less potentially destructive and better suit the individual needs of each tool.
+
+- Separated out each category into its own modular component lorebook for greater organization and portability.
+
+- Created optional individual ban token (`.badwords`) files to prevent the AI from leaking any commands into its own outputs.
+
+</sub>
+
+--
 
 ##### Version 1.1 - Sigurd v4 Update <sub>11/18/2021</sub>
 
