@@ -39,7 +39,8 @@ A suite of useful command-based tools including new and enhanced versions of alm
 ---
 
 #### Installation
-Download the `.png` file of the Pocket Notes version you want. Pull up your scenario in NovelAI and open the Lorebook. In the top left corner of the Lorebook window, click the icon depicting an up-arrow pointing into a box. Select the `.png` and click Open.
+Download the `.png` file of the Pocket Notes version you want. The newest version of the "Complete" edition is always recommended, but you can also select individual components à la carte if you want instead. It is also recommended to download and use a "Leakproofer," a banned words list designed to prevent the AI from outputting any Pocket Notes commands on its own.
+<br>Pull up your scenario in NovelAI and open the Lorebook. In the top left corner of the Lorebook window, click the icon depicting an up-arrow pointing into a box. Select the `.png` and click Open. You can also simply import both the `.png` and the `.badwords` files via the Import button at the bottom of the left panel of the UI.
 
 #### Usage
 While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe and will not conflict with most other Lorebook Entries. On it's own, Pocket Notes does nothing and makes no changes to your story until you invoke one of its commands (shown below). Even then, any effects of a command last for only one step of the story.
@@ -251,7 +252,7 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 > <sub>It is not necessary to type a newline after your command as it will be generated automatically. You are free to use upper/lowercase and optionally encapsulate your command in square brackets `[``]`. Some commands work better with or without brackets. Bracket spacing does not matter much and all commands should work fine with both `[ Command:` as well as `[Command:`.</sub>
 
-> <sub>If the AI starts to repeat/leak input commands on its own, it is recommended to either delete or comment out your commands after use. This is done by putting two hashtags `##` at the start of the line. For example: `##[ Do: Escape the attacker]`.</sub>
+> <sub>If the AI starts to repeat/leak input commands on its own, it is recommended to import and use one or more of the "Leakproofer" `.badwords` files, as these will ban the Pocket Notes commands from AI use. Alternatively, you can either delete or comment out your commands after use. This is done by putting two hashtags `##` at the start of the line. For example: `##[ Do: Escape the attacker]`.</sub>
 
 > <sub>All Pocket Editors have a large Search Range, meaning their lorebook keys may continue to trigger more than once, especially with a shorter Output Length setting (such as the default).</sub>
 
