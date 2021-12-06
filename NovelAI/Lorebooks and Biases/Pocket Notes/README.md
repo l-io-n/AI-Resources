@@ -1,6 +1,6 @@
 # Pocket Notes
 #### ✎ Portable Tools For Any Story ✐
-A suite of useful command-based tools including new and enhanced versions of almost every utility I released previously, all in the form of a portable lorebook card.
+A suite of useful command-based tools including new and enhanced versions of almost every utility I released previously, all in the form of series of portable lorebook cards.
 
 <sub>
 
@@ -144,6 +144,16 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
   > I am Lion, a knight in service to the kingdom of Midriel. I have been called upon by Queen Almalexia to undertake an important quest for her—retrieve a magical staff that has fallen into the hands of a powerful necromancer.
 </details>
 
+- **Tense Converters**[^2] - Converts a given passage of text to a different narrative tense.
+<br>*Commands*: `[ Past:`, `[ Present:`
+  <details>
+  <summary>Example...</summary>
+  
+  > [ Present: It was a dark and stormy night. I heard father making his usual ruckus in the kitchen. "Stop being so loud!" I shouted.]
+  
+  > It's a dark and stormy night. I hear father making his usual ruckus in the kitchen. "Stop being so loud!" I shout.
+</details>
+
 - **Prose Rephraser** - Rewrites a given sentence or passage with more eloquent phrasing.
 <br>*Command*: `[ Write:`
   <details>
@@ -170,14 +180,14 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 ##### **Pocket Guides**
 *Ask the AI for clarification!*
 
-- **Difficulty Assessor** - Determines the difficulty of an action or stunt.
-<br>*Command*: `Assess:`
+- **Judge** - Assesses the difficulty of a stunt, likelihood of a fact being true or action being successful, or measurement of something requiring precision.
+<br>*Command*: `Judge:`
   <details>
   <summary>Example...</summary>
   
-  > [ Assess: Catching a baseball ]
+  > [ Judge: Catching a baseball ]
   
-  > Difficulty Rating: Easy enough for you to accomplish given your current skill level and equipment. However, the likelihood of success is low due to the ball's current trajectory and aerodynamic properties. Your best bet would be to throw it straight upwards and let gravity do the rest.
+  > Easy enough for you to accomplish given your current skill level and equipment. However, the likelihood of success is low due to the ball's current trajectory and aerodynamic properties. Your best bet would be to throw it straight upwards and let gravity do the rest.
 </details>
 
 - **Interpreter** - Deciphers cryptic messages or vague keywords.
