@@ -40,12 +40,12 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 #### Installation
 Download the `.png` file of the Pocket Notes version you want. The newest version of the "Complete" edition is always recommended, but you can also select individual components à la carte if you want instead. It is also recommended to download and use a "Leakproofer," a banned words list designed to prevent the AI from outputting any Pocket Notes commands on its own.
-<br>Pull up your scenario in NovelAI and open the Lorebook. In the top left corner of the Lorebook window, click the icon depicting an up-arrow pointing into a box. Select the `.png` and click Open. You can also simply import both the `.png` and the `.badwords` files via the Import button at the bottom of the left panel of the UI.
+<br><br>Pull up your scenario in NovelAI and open the Lorebook. In the top left corner of the Lorebook window, click the icon depicting an up-arrow pointing into a box. Select the `.png` and click Open. You can also simply import both the `.png` and the `.badwords` files via the Import button at the bottom of the left panel of the UI.
 
 #### Usage
 While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe and will not conflict with most other Lorebook Entries. On it's own, Pocket Notes does nothing and makes no changes to your story until you invoke one of its commands (shown below). Even then, any effects of a command last for only one step of the story.
-<br>Simply type the command (optionally surrounded by square brackets `[``]`) into your story followed by an input relating to the command, and hit Send. Pocket Notes will automatically add a newline followed by a corresponding output.
-<br><sub>For more information and command specific notes, please refer to the [Notes on Recommend Use](#notes-on-recommend-use) section.</sub>
+<br><br>Simply type the command (optionally surrounded by square brackets `[``]`) into your story followed by an input relating to the command, and hit Send. Pocket Notes will automatically add a newline followed by a corresponding output.
+<br><br><sub>For more information and command specific notes, please refer to the [Notes on Recommend Use](#notes-on-recommend-use) section.</sub>
 <br><br>
 
 ---
