@@ -339,18 +339,22 @@ This lorebook utilizes improved versions of my existing tools:
 
 - Better Said Words
 
+- Perspective Reinforcement
+
+- Tense Reinforcement
+
+- Tell, Don't Show
+
 - Sensory Enhancer
 
 - Oracle
-
-- Tell, Don't Show
 
 - DIY Prompt Starter Kit
 
 - Plot Hook Generator
 
 <br>...as well as some minor examples from the community
- 
+
 </sub>
 
 <br>*Thank you everyone for all your help!*
