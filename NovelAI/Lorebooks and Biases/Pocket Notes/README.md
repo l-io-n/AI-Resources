@@ -144,7 +144,7 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
   > I am Lion, a knight in service to the kingdom of Midriel. I have been called upon by Queen Almalexia to undertake an important quest for her—retrieve a magical staff that has fallen into the hands of a powerful necromancer.
 </details>
 
-- **Tense Converters**[^2] - Converts a given passage of text to a different narrative tense.
+- **Tense Converters** - Converts a given passage of text to a different narrative tense.
 <br>*Commands*: `[ Past:`, `[ Present:`
   <details>
   <summary>Example...</summary>
