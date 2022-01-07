@@ -40,6 +40,7 @@ A suite of useful command-based tools including new and enhanced versions of alm
 
 #### Installation
 Download the `.png` file of the Pocket Notes version you want. The newest version of the "Complete" edition is always recommended, but you can also select individual components à la carte if you want instead. It is also recommended to download and use a "Leakproofer," a banned words list designed to prevent the AI from outputting any Pocket Notes commands on its own.
+<br><sub>**To download a leakproofer `.badwords` file from Github**, click the file from the list, then *right-click* the **Raw** button near the top right, then click **Save Link As...**</sub>
 <br><br>Pull up your scenario in NovelAI and open the Lorebook. In the top left corner of the Lorebook window, click the icon depicting an up-arrow pointing into a box. Select the `.png` and click Open. You can also simply import both the `.png` and the `.badwords` files via the Import button at the bottom of the left panel of the UI.
 
 #### Usage
