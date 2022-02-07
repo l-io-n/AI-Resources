@@ -1,0 +1,2790 @@
+{
+  "phraseBiasGroups": [
+    {
+      "phrases": [
+        {
+          "sequences": [],
+          "sequence": "accepts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "accuses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "acknowledges",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "adds",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "adjures",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "admits",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "adumbrates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "advances",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "advise",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "affirms",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "agonizes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "alleges",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "allows",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "alludes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "analyzes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "answers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "appeals",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "applauds",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "appraises",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "approves",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "argues",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "assays",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "assesses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "assures",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "attests",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "authenticates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "babbles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "badgers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "banters",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "barks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bawls",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "beams",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "begs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bellows",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "berates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "beseeches",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "betrays",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "blathers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bleats",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "blithers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "blurts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "boasts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "booms",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "brags",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "broods",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bubbles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cautions",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "censures",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "certifies",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "challenges",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chastises",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cheers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chides",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chokes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chortles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "choruses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chuckles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "claims",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "clarifies",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "clucks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "comforts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "commands",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "complains",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "concedes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "concludes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "confesses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "confides",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "congratulates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "considers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "consoles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "contends",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "coos",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "corrects",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "corroborates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "coughs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "counters",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cowers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cries",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cringes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "criticizes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "critiques",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "croaks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "crows",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "declares",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "defends",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "defines",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "delineates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "demands",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "denies",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "depicts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "discloses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "dismisses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "disparages",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "divulges",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "elucidates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "emphasizes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "encourages",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "estimates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "evaluates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "examines",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "exclaims",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "exhorts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "explains",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "explicates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "explores",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "exposes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "falters",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "figures",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "foreshadows",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "forewarns",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "fretts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "fumes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gapes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gasps",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gauges",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gawks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "giggles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "grants",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "greets",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gripes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "groans",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "grouses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "growls",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "grunts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gulps",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gurgles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "harasses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "heralds",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hesitates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hints",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hisses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hollers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hoots",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "illuminates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "illustrates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "imparts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "implies",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "implores",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "indicates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "inquires",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "insinuates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "insists",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "inspects",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "interposes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "interprets",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "interrogates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "interrupts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "jabbers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "jeers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "jests",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "jokes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "judges",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "laughs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "leers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "maintains",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "marvels",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "moans",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "mocks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "mumbles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "murmurs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "mutters",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "nags",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "nods",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "offers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "ogles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "panics",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "pants",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "peruses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "pipes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "pleads",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "ponders",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "portends",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "portrays",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "posits",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "praises",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "prattles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "predicts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "preens",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "probes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "proclaims",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "professes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "promises",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "proposes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quakes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quavers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "queries",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "questions",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quips",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quivers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quizzes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "rants",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reassures",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "rebuffs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "rebukes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reckons",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "recognizes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "recoils",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "refutes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "rejects",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "remarks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "remembers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "replies",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reports",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reprimands",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reproaches",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "requests",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "researches",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "responds",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "retorts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "returns",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reveals",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reviews",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "roars",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sings",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sasses",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "scoffs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "scolds",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "scorns",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "screams",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "scrutinizes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "searches",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shivers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shouts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shrieks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shrills",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shudders",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sighs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "signals",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "smiles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "smirks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "snaps",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "snarls",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sneers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "snickers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sniffs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sniffles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "snorts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sobs",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "soothes",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "spills",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "splutters",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "speaks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "spouts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sputters",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "squeaks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "stammers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "starts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "storms",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "substantiates",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "suggests",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "surveys",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "taunts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "teases",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "threatens",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "trembles",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "volunteers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "vows",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "wails",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "warns",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "weeps",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "whimpers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "whines",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "whispers",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "wonders",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "worries",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "yaks",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "yelps",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "mentions",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "asserts",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "voices",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "accepted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "accused",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "acknowledged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "added",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "adjured",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "admitted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "adumbrated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "advanced",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "advised",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "affirmed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "agonized",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "alleged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "allowed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "alluded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "analyzed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "answered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "appealed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "applauded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "appraised",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "approved",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "argued",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "assayed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "asserted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "assessed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "assured",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "attested",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "authenticated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "babbled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "badgered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bantered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "barked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bawled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "beamed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "begged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bellowed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "berated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "beseeched",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bespoke",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "betrayed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "blanched",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "blathered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bleated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "blithered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "blurted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "boasted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "boomed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bragged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "brooded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "bubbled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cautioned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "censured",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "certified",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "challenged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chastised",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cheered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chided",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "choked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chortled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chorused",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "chuckled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "claimed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "clarified",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "clucked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "comforted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "commanded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "complained",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "conceded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "concluded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "confessed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "confided",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "congratulated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "connoted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "considered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "consoled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "contended",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cooed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "corrected",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "corroborated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "coughed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "countered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cowered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cried",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "cringed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "criticized",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "critiqued",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "croaked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "crowed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "declared",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "defended",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "defined",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "delineated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "demanded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "denied",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "depicted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "deried",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "disclosed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "dismissed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "disparaged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "divulged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "elucidated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "emphasized",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "encouraged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "estimated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "evaluated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "examined",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "exclaimed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "exhorted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "explained",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "explicated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "explored",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "exposed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "faltered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "figured",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "foreshadowed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "forewarned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "fretted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "fumed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gaped",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gasped",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gauged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gawked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "giggled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "granted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "greeted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "griped",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "groaned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "groused",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "growled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "grunted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gulped",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "gurgled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "harassed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "held",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "heralded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hesitated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hinted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hissed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hollered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "hooted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "illuminated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "illustrated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "imparted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "implied",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "implored",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "indicated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "inquired",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "insinuated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "insisted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "inspected",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "interposed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "interpreted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "interrogated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "interrupted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "intimated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "jabbered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "jeered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "jested",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "jibed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "joked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "judged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "laughed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "leered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "letslip",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "maintained",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "marveled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "mentioned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "moaned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "mocked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "mumbled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "murmured",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "muttered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "nagged",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "nodded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "offered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "ogled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "owned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "paled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "panicked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "panted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "perused",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "piped",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "pleaded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "pondered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "portended",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "portrayed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "posited",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "praised",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "prattled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "predicted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "preened",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "probed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "proclaimed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "professed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "promised",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "proposed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quaked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quavered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "queried",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "questioned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quipped",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quivered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "quizzed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "ranted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reassured",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "rebuffed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "rebuked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reckoned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "recognized",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "recoiled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "refuted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "rejected",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "rejoined",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "remarked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "remembered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "replied",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reported",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reprimanded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reproached",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "requested",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "researched",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "responded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "retorted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "returned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "revealed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "reviewed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "roared",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sang",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sassed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "scoffed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "scolded",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "scorned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "screamed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "scrutinized",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "searched",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shivered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shouted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shrieked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shrilled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "shuddered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sighed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "signaled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "signified",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "smiled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "smirked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "snapped",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "snarled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sneered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "snickered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sniffed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sniffled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "snorted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sobbed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "soothed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "spilled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "spluttered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "spoke",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "spooked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "spouted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "sputtered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "squeaked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "stammered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "started",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "stated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "stormed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "substantiated",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "suggested",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "surveyed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "taunted",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "teased",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "tensed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "threatened",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "trembled",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "volunteered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "voiced",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "vowed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "wailed",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "warned",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "wept",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "whimpered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "whined",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "whispered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "wondered",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "worried",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "yakked",
+          "type": 2
+        },
+        {
+          "sequences": [],
+          "sequence": "yelped",
+          "type": 2
+        }
+      ],
+      "bias": 0.08,
+      "ensure_sequence_finish": false,
+      "ensureSequenceFinish": false,
+      "generate_once": true,
+      "generateOnce": true,
+      "enabled": true,
+      "whenInactive": false
+    }
+  ]
+}
