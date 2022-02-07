@@ -58,6 +58,14 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
 - Added Pocket Directors for Euterpe v2 (a la carte)
 
+- Tweaked biases, examples, etc. Works much better and designed for Euterpe v2.
+
+- Removed the Better Said Words bias that was part of the Dialogue tool as I believe it's unnecessary now and a bit excessive.
+
+  <br> (You can download this bias [here](https://github.com/l-io-n/AI-Resources/blob/main/NovelAI/Lorebooks%20and%20Biases/Better%20Said%20Words.bias) and optionally apply it to the Dialogue tool lorebook entry if you wish.)
+
+- Brackets are now optional for commands. Should work just as well with or without.
+
 </sub>
 
 <br>
