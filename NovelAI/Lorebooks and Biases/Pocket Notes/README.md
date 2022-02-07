@@ -64,6 +64,8 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 
   <br> (You can download this bias [here](https://github.com/l-io-n/AI-Resources/blob/main/NovelAI/Lorebooks%20and%20Biases/Better%20Said%20Words.bias) and optionally apply it to the Dialogue tool lorebook entry if you wish.)
 
+- Streamlined other biases and removed some bloat.
+
 - Brackets are now optional for commands. Should work just as well with or without.
 
 </sub>
