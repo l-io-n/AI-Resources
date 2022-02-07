@@ -52,27 +52,11 @@ While the Pocket Notes Lorebook makes heavy use of phrase biasing, it is safe an
 ---
 
 #### What's New
-<sub>12/05/2021</sub>
+<sub>02/06/2022</sub>
 
 <sub>
 
-- Added new tool: Tense Converter (both Past and Present versions).
-
-- Combined Oracles into single tool with more flexibility for asking different types of questions.
-
-- Tweaked the Oracle's phrase biasing to be more objective in its answers.
-
-- Overhauled the Difficulty Assessor function better, added support for likelihood and detail assessment, and renamed to Judge.
-
-- Adjusted the Insertion Order and Position of almost every tool to better function with full context. *(Thanks Anon!)*
-
-- Adjusted RegEx keys to be more flexible and account for end brackets.
-
-- Revisited some of the global and individual phrase biasing to be less potentially destructive and better suit the individual needs of each tool.
-
-- Separated out each category into its own modular component lorebook for greater organization and portability.
-
-- Created optional individual ban token (`.badwords`) files to prevent the AI from leaking any commands into its own outputs.
+- Added Pocket Directors for Euterpe v2 (a la carte)
 
 </sub>
 
